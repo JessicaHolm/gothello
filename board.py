@@ -20,28 +20,74 @@ class Board(object):
     def find_best_move(self, depth, color):
         v = self.negamax(depth, color)
         print(v)
-
+    
     def negamax(self, depth, color):
+        moves = self.genMoves()
+        if len(moves) == 0:
+            self.best_move = PASS
+            scratch = copy.deepcopy(self)
+            status = scratch.try_move(self.best_move)
+            if status != GAME_OVER:
+                return -scratch.negamax(25, -color)
+            return 0
         if depth == 0:
             return self.heval()
-        moves = self.genMoves()
         maxvalue = -INF
         values = []
         possible_best_moves = []
         for move in moves:
             scratch = copy.deepcopy(self)
+            scratch.try_move(move)
             values.append(-scratch.negamax(depth - 1, -color))
         if values:
             maxvalue = max(values)
+        nbest = 0
         for i in range(len(moves)):
             if values[i] == maxvalue: 
+                nbest += 1
                 possible_best_moves.append(moves[i])
         if values:
             self.best_move = random.choice(possible_best_moves)
         else:
             self.best_move = PASS
         return maxvalue
-
+    '''
+    def negamax(self, depth, find_move):
+        moves = self.genMoves()
+        nmoves = len(moves)
+        if nmoves == 0:
+            self.best_move = (-1,-1)
+            scratch = copy.deepcopy(self)
+            status = scratch.try_move(self.best_move)
+            if status != 1:
+                return -scratch.negamax(25, False)
+            return 0
+        if depth <= 0:
+            return self.heval()
+        values = []
+        if find_move:
+            values = [0] * nmoves
+        maxv = -26
+        for i in range(nmoves):
+            move = moves[i]
+            scratch = copy.deepcopy(self)
+            status = scratch.try_move(move)
+            v = -scratch.negamax(depth - 1, False)
+            if find_move:
+                values[i] = v
+            if v >= maxv:
+                maxv = v
+        if not find_move:
+            return maxv
+        possible_best_moves = []
+        nbest = 0
+        for i in range(nmoves):
+            if values[i] == maxv:
+                possible_best_moves.append(moves[i])
+                nbest += 1
+        self.best_move = random.choice(possible_best_moves)
+        return maxv
+    '''
     def opponent(self, player):
         if player == PLAYER_BLACK:
             return PLAYER_WHITE 
