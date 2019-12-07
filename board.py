@@ -17,77 +17,41 @@ class Board(object):
         self.previous_move = None
         self.grid = [[0] * 5 for _ in range(5)]
 
-    def find_best_move(self, depth, color):
-        v = self.negamax(depth, color)
-        print(v)
-    
-    def negamax(self, depth, color):
+    def find_best_move(self, depth, maximizing_player):
         moves = self.genMoves()
-        if len(moves) == 0:
-            self.best_move = PASS
-            scratch = copy.deepcopy(self)
-            status = scratch.try_move(self.best_move)
-            if status != GAME_OVER:
-                return -scratch.negamax(25, -color)
-            return 0
-        if depth == 0:
-            return self.heval()
-        maxvalue = -INF
         values = []
         possible_best_moves = []
+        maxval = -INF
         for move in moves:
             scratch = copy.deepcopy(self)
-            scratch.try_move(move)
-            values.append(-scratch.negamax(depth - 1, -color))
+            status = scratch.try_move(move)
+            value = -scratch.negamax(move, depth, status, -INF, INF)
+            values.append(value)
         if values:
-            maxvalue = max(values)
-        nbest = 0
-        for i in range(len(moves)):
-            if values[i] == maxvalue: 
-                nbest += 1
-                possible_best_moves.append(moves[i])
-        if values:
+            maxval = max(values)
+
+        for value, move in zip(values, moves):
+            if value == maxval:
+                possible_best_moves.append(move)
+        if moves:
             self.best_move = random.choice(possible_best_moves)
         else:
             self.best_move = PASS
-        return maxvalue
-    '''
-    def negamax(self, depth, find_move):
-        moves = self.genMoves()
-        nmoves = len(moves)
-        if nmoves == 0:
-            self.best_move = (-1,-1)
-            scratch = copy.deepcopy(self)
-            status = scratch.try_move(self.best_move)
-            if status != 1:
-                return -scratch.negamax(25, False)
-            return 0
-        if depth <= 0:
+    
+    def negamax(self, node, depth, status, a, b):
+        if depth == 0 or status == GAME_OVER:
             return self.heval()
-        values = []
-        if find_move:
-            values = [0] * nmoves
-        maxv = -26
-        for i in range(nmoves):
-            move = moves[i]
+        moves = self.genMoves()
+        maxval = -INF
+        for move in moves:
             scratch = copy.deepcopy(self)
             status = scratch.try_move(move)
-            v = -scratch.negamax(depth - 1, False)
-            if find_move:
-                values[i] = v
-            if v >= maxv:
-                maxv = v
-        if not find_move:
-            return maxv
-        possible_best_moves = []
-        nbest = 0
-        for i in range(nmoves):
-            if values[i] == maxv:
-                possible_best_moves.append(moves[i])
-                nbest += 1
-        self.best_move = random.choice(possible_best_moves)
-        return maxv
-    '''
+            maxval = max(maxval, -scratch.negamax(move, depth - 1, status, -b, -a))
+            a = max(a, maxval)
+            if a >= b:
+                return b
+        return maxval
+        
     def opponent(self, player):
         if player == PLAYER_BLACK:
             return PLAYER_WHITE 
@@ -185,7 +149,7 @@ class Board(object):
 
     def try_move(self, move):
         if move == PASS and self.previous_move == PASS:
-            return 1
+            return GAME_OVER
         self.make_move(move)
         self.to_move = self.opponent(self.to_move)
         return 0
@@ -199,4 +163,5 @@ class Board(object):
                     mstones += 1
                 elif self.grid[i][j] == self.opponent(self.to_move):
                     ostones += 1
+        # print("heval", mstones - ostones)
         return mstones - ostones

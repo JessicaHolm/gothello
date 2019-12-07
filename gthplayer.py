@@ -35,7 +35,7 @@ class Player(object):
 
     def make_player_move(self):
         board = self.board
-        board.find_best_move(self.depth, 1)
+        board.find_best_move(self.depth, True)
         board.try_move(board.best_move)
         best_move = self.convert_move_to_str(board.best_move)
         print("me:", best_move)
