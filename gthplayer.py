@@ -12,6 +12,7 @@ class Player(object):
         self.table = table.Table()
         self.depth = depth
         self.client = client
+        self.count = 0
 
     def letter_range(self, letter):
         for i in range(5):
