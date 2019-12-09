@@ -40,7 +40,7 @@ class Table(object):
 
 class Entry(object):
 
-    def __init__(self, key = 0, move = None, value = 0, flag = 0, depth = -1):
+    def __init__(self, key = 0, move = (0,0), value = 0, flag = 0, depth = -1):
         self.key = key
         self.move = move
         self.value = value

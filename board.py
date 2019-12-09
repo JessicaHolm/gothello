@@ -42,8 +42,7 @@ class Board(object):
     def negamax(self, player, depth, status, a, b):
         origa = a
         ttEntry = player.table.ttLookup(self.grid)
-        # print(ttEntry.depth)
-        if ttEntry.flag != 0 or ttEntry.depth >= depth:
+        if ttEntry.depth >= depth:
             if ttEntry.flag == EXACT:
                 return ttEntry.value
             elif ttEntry.flag == LOWERBOUND:
@@ -53,28 +52,60 @@ class Board(object):
             if a >= b:
                 return ttEntry.value
 
-        if depth == 0 or status == GAME_OVER:
+        if depth == 0:
             return self.heval()
-        moves = self.genMoves()
-        value = -INF
-        for move in moves:
-            copy_board = copy.deepcopy(self)
-            status = copy_board.try_move(move)
-            value = max(value, -copy_board.negamax(player, depth - 1, status, -b, -a))
-            a = max(a, value)
-            if a >= b:
-                break
+        if ttEntry.depth >= 0:
+            oldGrid = self.grid
+            print("before move", oldGrid)
+            self.do_move(ttEntry.move)
+            best_value = -self.negamax(player, depth - 1, status, -b, -a)
+            # self.undo_move(oldGrid)
+            print("before undo old", oldGrid)
+            self.grid = oldGrid
+            self.to_move = self.opponent(self.to_move)
+            print("after undo self", self.grid)
+            best_move = ttEntry.move
+            if best_value >= b:
+                ttEntry.value = best_value
+                if best_value <= origa:
+                    ttEntry.flag = UPPERBOUND
+                elif best_value >= b:
+                    ttEntry.flag = LOWERBOUND
+                else:
+                    ttEntry.flag = EXACT
+                ttEntry.depth = depth
+                ttEntry.move = best_move
+                player.table.ttStore(self.grid, ttEntry)
+                return best_value
+        else:
+            best_value = -INF
+            moves = self.genMoves()
+            if len(moves) == 0:
+                return self.heval()
+            for move in moves:
+                if move != ttEntry.move:
+                    a = max(best_value, a)
+                    oldGrid = self.grid
+                    self.do_move(move)
+                    value = -self.negamax(player, depth - 1, status, -b, -a)
+                    self.undo_move(oldGrid)
+                    if value > best_value:
+                        best_value = value
+                        best_move = move
+                    if best_value >= b:
+                        break
 
-        ttEntry.value = value
-        if value <= origa:
+        ttEntry.value = best_value
+        if best_value <= origa:
             ttEntry.flag = UPPERBOUND
-        elif value >= b:
+        elif best_value >= b:
             ttEntry.flag = LOWERBOUND
         else:
             ttEntry.flag = EXACT
         ttEntry.depth = depth
+        ttEntry.move = best_move
         player.table.ttStore(self.grid, ttEntry)
-        return value
+        return best_value
 
     def heval(self):
         mstones = 0
@@ -93,6 +124,15 @@ class Board(object):
             return
         self.grid[move[0]][move[1]] = self.to_move
         self.do_captures(move)
+
+    def do_move(self, move):
+        self.grid[move[0]][move[1]] = self.to_move
+        self.do_captures(move)
+        self.to_move = self.opponent(self.to_move)
+
+    def undo_move(self, oldGrid):
+        self.grid = oldGrid
+        self.to_move = self.opponent(self.to_move)
 
     def try_move(self, move):
         if move == PASS and self.previous_move == PASS:
