@@ -18,7 +18,7 @@ class Table(object):
                 if grid[i][j] != 0:
                     k = grid[i][j] - 1
                     h = h ^ self.bit_table[count][k]
-            count += 1
+                count += 1
         return h
 
     def ttLookup(self, grid):

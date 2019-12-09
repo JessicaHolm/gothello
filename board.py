@@ -28,74 +28,70 @@ class Board(object):
         if not moves:
             self.best_move = PASS
             return
-        for i, move in zip(range(len(moves)), moves):
+        for move in moves:
             copy_board = copy.deepcopy(self)
             copy_board.try_move(move)
-            if i == 0:
-                print(copy_board.grid)
-                six = True
-            else:
-                six = False
-            value = -copy_board.negamax(player, depth, 0, -INF, INF, six)
+            value = -copy_board.negamax(player, depth, 0, -INF, INF, False)
             values.append(value)
         print(values)
         maxval = max(values)
-        #print(maxval)
         for value, move in zip(values, moves):
-            self.best_move = move
-            break
+            # self.best_move = move
+            # break
             if value == maxval:
                 possible_best_moves.append(move)
-        # self.best_move = random.choice(possible_best_moves)
-        # print("best_move choosen", self.best_move)
+        self.best_move = random.choice(possible_best_moves)
         
-    def negamax(self, player, depth, status, a, b, six):
-        # print(self.grid)
-        
+    def negamax(self, player, depth, status, a, b, done):
         origa = a
         ttEntry = player.table.ttLookup(self.grid)
-        if six:
-            pprint(vars(ttEntry))
         if ttEntry.depth >= depth:
             if ttEntry.flag == EXACT:
-                if six:
-                    print("exact value", ttEntry.value)
                 return ttEntry.value
             elif ttEntry.flag == LOWERBOUND:
                 a = max(a, ttEntry.value)
             elif ttEntry.flag == UPPERBOUND:
                 b = min(b, ttEntry.value)
             if a >= b:
-                if six:
-                    print("a > b value", ttEntry.value)
                 return ttEntry.value
-        
+
         if depth == 0 or status == GAME_OVER:
             return self.heval()
+        '''
+        if ttEntry.depth >= 0:
+            copy_board = copy.deepcopy(self)
+            status = copy_board.try_move(ttEntry.move)
+            best_value = -copy_board.negamax(player, depth - 1, status, -b, -a, done)
+            best_move = ttEntry.move
+            if best_value >= b:
+                done = True
+        if not done:
+        '''
         moves = self.genMoves()
-        value = -INF
+        best_value = -INF
         for move in moves:
+            a = max(a, best_value)
             copy_board = copy.deepcopy(self)
             status = copy_board.try_move(move)
-            value = max(value, -copy_board.negamax(player, depth - 1, status, -b, -a, six))
-            a = max(a, value)
-            if a >= b:
-                break
+            value = -copy_board.negamax(player, depth - 1, status, -b, -a, done)
+            if value > best_value:
+                best_value = value
+                # best_move = move
+                if best_value >= b:
+                    break
         
-        ttEntry.value = value
-        if value <= origa:
+        if best_value <= origa:
             ttEntry.flag = UPPERBOUND
-        elif value >= b:
+        elif best_value >= b:
             ttEntry.flag = LOWERBOUND
         else:
             ttEntry.flag = EXACT
         ttEntry.depth = depth
+        ttEntry.value = best_value
         # ttEntry.move = best_move
         player.table.ttStore(self.grid, ttEntry)
         
-        if six:
-            print("negamax value", value)
-        return value
+        return best_value
 
     def heval(self):
         mstones = 0
