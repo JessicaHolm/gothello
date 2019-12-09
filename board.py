@@ -8,6 +8,9 @@ PLAYER_WHITE = 2
 GAME_OVER = 1
 PASS = (-1,-1)
 INF = float('infinity')
+UPPERBOUND = 1
+LOWERBOUND = 2
+EXACT = 3
 
 class Board(object):
     
@@ -17,41 +20,109 @@ class Board(object):
         self.previous_move = None
         self.grid = [[0] * 5 for _ in range(5)]
 
-    def find_best_move(self, depth, maximizing_player):
+    def find_best_move(self, player, depth):
         moves = self.genMoves()
         values = []
         possible_best_moves = []
-        maxval = -INF
+        if not moves:
+            self.best_move = PASS
+            return
         for move in moves:
-            scratch = copy.deepcopy(self)
-            status = scratch.try_move(move)
-            value = -scratch.negamax(move, depth, status, -INF, INF)
+            copy_board = copy.deepcopy(self)
+            copy_board.try_move(move)
+            value = -copy_board.negamax(player, depth, 0, -INF, INF)
             values.append(value)
-        if values:
-            maxval = max(values)
-
+        print(values)
+        maxval = max(values)
         for value, move in zip(values, moves):
             if value == maxval:
                 possible_best_moves.append(move)
-        if moves:
-            self.best_move = random.choice(possible_best_moves)
-        else:
-            self.best_move = PASS
-    
-    def negamax(self, node, depth, status, a, b):
+        self.best_move = random.choice(possible_best_moves)
+        
+    def negamax(self, player, depth, status, a, b):
+        origa = a
+        ttEntry = player.table.ttLookup(self.grid)
+        # print(ttEntry.depth)
+        if ttEntry.flag != 0 or ttEntry.depth >= depth:
+            if ttEntry.flag == EXACT:
+                return ttEntry.value
+            elif ttEntry.flag == LOWERBOUND:
+                a = max(a, ttEntry.value)
+            elif ttEntry.flag == UPPERBOUND:
+                b = min(b, ttEntry.value)
+            if a >= b:
+                return ttEntry.value
+
         if depth == 0 or status == GAME_OVER:
             return self.heval()
         moves = self.genMoves()
-        maxval = -INF
+        value = -INF
         for move in moves:
-            scratch = copy.deepcopy(self)
-            status = scratch.try_move(move)
-            maxval = max(maxval, -scratch.negamax(move, depth - 1, status, -b, -a))
-            a = max(a, maxval)
+            copy_board = copy.deepcopy(self)
+            status = copy_board.try_move(move)
+            value = max(value, -copy_board.negamax(player, depth - 1, status, -b, -a))
+            a = max(a, value)
             if a >= b:
-                return b
-        return maxval
-        
+                break
+
+        ttEntry.value = value
+        if value <= origa:
+            ttEntry.flag = UPPERBOUND
+        elif value >= b:
+            ttEntry.flag = LOWERBOUND
+        else:
+            ttEntry.flag = EXACT
+        ttEntry.depth = depth
+        player.table.ttStore(self.grid, ttEntry)
+        return value
+
+    def heval(self):
+        mstones = 0
+        ostones = 0
+        for i in range(5):
+            for j in range(5):
+                if self.grid[i][j] == self.to_move:
+                    mstones += 1
+                elif self.grid[i][j] == self.opponent(self.to_move):
+                    ostones += 1
+        return mstones - ostones
+
+    def make_move(self, move):
+        self.previous_move = move
+        if move == PASS:
+            return
+        self.grid[move[0]][move[1]] = self.to_move
+        self.do_captures(move)
+
+    def try_move(self, move):
+        if move == PASS and self.previous_move == PASS:
+            return GAME_OVER
+        self.make_move(move)
+        self.to_move = self.opponent(self.to_move)
+        return 0
+
+    def move_ok(self, move):
+        if move == PASS:
+            return True
+        if self.grid[move[0]][move[1]] != 0:
+            return False
+        self.grid[move[0]][move[1]] = self.to_move;
+        n = self.liberties(move[0], move[1])
+        self.grid[move[0]][move[1]] = 0;
+        if n == 0:
+            return False
+        return True
+
+    def genMoves(self):
+        result = []
+        for i in range(5):
+            for j in range(5):
+                if self.grid[i][j] == 0:
+                    move = (i, j)
+                    if self.move_ok(move):
+                        result.append(move)
+        return result
+
     def opponent(self, player):
         if player == PLAYER_BLACK:
             return PLAYER_WHITE 
@@ -97,28 +168,6 @@ class Board(object):
                     n += 1
         return n
 
-    def move_ok(self, move):
-        if move == PASS:
-            return True
-        if self.grid[move[0]][move[1]] != 0:
-            return False
-        self.grid[move[0]][move[1]] = self.to_move;
-        n = self.liberties(move[0], move[1])
-        self.grid[move[0]][move[1]] = 0;
-        if n == 0:
-            return False
-        return True
-
-    def genMoves(self):
-        result = []
-        for i in range(5):
-            for j in range(5):
-                if self.grid[i][j] == 0:
-                    move = (i, j)
-                    if self.move_ok(move):
-                        result.append(move)
-        return result
-
     def capture(self, x, y):
         if self.liberties(x, y) > 0:
           return
@@ -139,29 +188,3 @@ class Board(object):
             self.capture(move[0], move[1] - 1)
         if move[1] < 4 and self.grid[move[0]][move[1] + 1] == self.opponent(to_move):
             self.capture(move[0], move[1] + 1)
-        
-    def make_move(self, move):
-        self.previous_move = move
-        if move == PASS:
-            return
-        self.grid[move[0]][move[1]] = self.to_move
-        self.do_captures(move)
-
-    def try_move(self, move):
-        if move == PASS and self.previous_move == PASS:
-            return GAME_OVER
-        self.make_move(move)
-        self.to_move = self.opponent(self.to_move)
-        return 0
-
-    def heval(self):
-        mstones = 0
-        ostones = 0
-        for i in range(5):
-            for j in range(5):
-                if self.grid[i][j] == self.to_move:
-                    mstones += 1
-                elif self.grid[i][j] == self.opponent(self.to_move):
-                    ostones += 1
-        # print("heval", mstones - ostones)
-        return mstones - ostones

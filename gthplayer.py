@@ -3,11 +3,13 @@
 import sys
 import gthclient
 import board
+import table
 
 class Player(object):
 
     def __init__(self, depth, client):
         self.board = board.Board()
+        self.table = table.Table()
         self.depth = depth
         self.client = client
 
@@ -35,7 +37,7 @@ class Player(object):
 
     def make_player_move(self):
         board = self.board
-        board.find_best_move(self.depth, True)
+        board.find_best_move(self, self.depth)
         board.try_move(board.best_move)
         best_move = self.convert_move_to_str(board.best_move)
         print("me:", best_move)
