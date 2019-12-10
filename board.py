@@ -36,8 +36,6 @@ class Board(object):
         print(values)
         maxval = max(values)
         for value, move in zip(values, moves):
-            # self.best_move = move
-            # break
             if value == maxval:
                 possible_best_moves.append(move)
         self.best_move = random.choice(possible_best_moves)
@@ -57,16 +55,6 @@ class Board(object):
 
         if depth == 0 or status == GAME_OVER:
             return self.heval()
-        '''
-        if ttEntry.depth >= 0:
-            copy_board = copy.deepcopy(self)
-            status = copy_board.try_move(ttEntry.move)
-            best_value = -copy_board.negamax(player, depth - 1, status, -b, -a, done)
-            best_move = ttEntry.move
-            if best_value >= b:
-                done = True
-        if not done:
-        '''
         moves = self.genMoves()
         best_value = -INF
         for move in moves:

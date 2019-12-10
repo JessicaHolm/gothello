@@ -6,9 +6,9 @@ class Table(object):
         bit_table = [[0] * 2 for _ in range(25)]
         for i in range(25):
             for j in range(2):
-                bit_table[i][j] = random.getrandbits(32)
+                bit_table[i][j] = random.getrandbits(16)
         self.bit_table = bit_table
-        self.table = []
+        self.table = [0] * 2**16
 
     def get_hash(self, grid):
         h = 0
@@ -23,20 +23,14 @@ class Table(object):
 
     def ttLookup(self, grid):
         key = self.get_hash(grid)
-        for entry in self.table:
-            if entry.key == key:
-                # print("value", entry.value)
-                return entry
-        return Entry(key)
+        if self.table[key] != 0:
+            return self.table[key]
+        else:
+            return Entry(key)
 
     def ttStore(self, grid, ttEntry):
         key = self.get_hash(grid)
-        for entry in self.table:
-            if entry.key == key:
-                entry = ttEntry
-                return
-        
-        self.table.append(ttEntry)
+        self.table.insert(key, ttEntry)
 
 class Entry(object):
 
