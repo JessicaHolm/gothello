@@ -1,0 +1,11092 @@
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+...b.
+.....
+
+380 2 b
+382
+.....
+.....
+.....
+.w.b.
+.....
+
+380 2 w
+382
+.....
+.....
+.....
+.w.b.
+b....
+
+380 3 b
+382
+.....
+.....
+.....
+.w.b.
+bw...
+
+380 3 w
+382
+.....
+.b...
+.....
+.w.b.
+bw...
+
+380 4 b
+382
+.....
+.b.w.
+.....
+.w.b.
+bw...
+
+380 4 w
+382
+.....
+.b.w.
+.....
+.wbb.
+bw...
+
+380 5 b
+382
+.....
+.bww.
+.....
+.wbb.
+bw...
+
+380 5 w
+382
+.....
+.bww.
+.....
+.wbb.
+bwb..
+
+380 6 b
+382
+.....
+.bww.
+...w.
+.wbb.
+bwb..
+
+380 6 w
+382
+.....
+.bww.
+.b.w.
+.wbb.
+bwb..
+
+380 7 b
+382
+.....
+.bww.
+wb.w.
+.wbb.
+bwb..
+
+380 7 w
+382
+...b.
+.bww.
+wb.w.
+.wbb.
+bwb..
+
+380 8 b
+382
+..wb.
+.bww.
+wb.w.
+.wbb.
+bwb..
+
+380 8 w
+382
+..wb.
+.bwwb
+wb.w.
+.wbb.
+bwb..
+
+380 9 b
+382
+.wwb.
+.bwwb
+wb.w.
+.wbb.
+bwb..
+
+380 9 w
+382
+.wwb.
+.bwwb
+wb.w.
+.wbbb
+bwb..
+
+380 10 b
+382
+.wwb.
+.bwwb
+wbww.
+.wbbb
+bwb..
+
+380 10 w
+382
+.wwb.
+.bwwb
+wbwwb
+.wbbb
+bwb..
+
+380 11 b
+382
+.wwb.
+wwwwb
+wwwwb
+.wbbb
+bwb..
+
+380 11 w
+382
+.wwb.
+wwwwb
+wwwwb
+.wbbb
+bwbb.
+
+380 12 b
+382
+wwwb.
+wwwwb
+wwwwb
+.wbbb
+bwbb.
+
+380 12 w
+382
+wwwb.
+wwwwb
+wwwwb
+.wbbb
+bwbbb
+
+380 13 b
+382
+wwwb.
+wwwwb
+wwwwb
+.wbbb
+bwbbb
+380 13 *
+382
+wwwb.
+wwwwb
+wwwwb
+.wbbb
+bwbbb
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+...b.
+.....
+
+380 2 b
+382
+.....
+.....
+.....
+...b.
+.w...
+
+380 2 w
+382
+.b...
+.....
+.....
+...b.
+.w...
+
+380 3 b
+382
+.b...
+.....
+.....
+...b.
+.w.w.
+
+380 3 w
+382
+.b..b
+.....
+.....
+...b.
+.w.w.
+
+380 4 b
+382
+.b..b
+.....
+.....
+...b.
+ww.w.
+
+380 4 w
+382
+.b..b
+.....
+.....
+b..b.
+ww.w.
+
+380 5 b
+382
+.b..b
+.....
+....w
+b..b.
+ww.w.
+
+380 5 w
+382
+.b..b
+b....
+....w
+b..b.
+ww.w.
+
+380 6 b
+382
+.b..b
+b....
+....w
+bw.b.
+ww.w.
+
+380 6 w
+382
+.b..b
+b....
+b...w
+bw.b.
+ww.w.
+
+380 7 b
+382
+.b.wb
+b....
+b...w
+bw.b.
+ww.w.
+
+380 7 w
+382
+.b.wb
+b..b.
+b...w
+bw.b.
+ww.w.
+
+380 8 b
+382
+.b.ww
+b..bw
+b...w
+bw.b.
+ww.w.
+
+380 8 w
+382
+.bbww
+b..bw
+b...w
+bw.b.
+ww.w.
+
+380 9 b
+382
+.bbww
+b.wbw
+b...w
+bw.b.
+ww.w.
+
+380 9 w
+382
+.bbww
+b.wbw
+b..bw
+bw.b.
+ww.w.
+
+380 10 b
+382
+.bbww
+b.wbw
+b..bw
+bw.bw
+ww.w.
+
+380 10 w
+382
+.bbww
+b.wbw
+b.bbw
+bw.bw
+ww.w.
+
+380 11 b
+382
+.bbww
+bwwbw
+b.bbw
+bw.bw
+ww.w.
+
+380 11 w
+382
+.bbww
+bbbbw
+bbbbw
+bw.bw
+ww.w.
+
+380 12 b
+382
+.bbww
+bbbbw
+bbbbw
+bwwbw
+ww.w.
+
+380 12 w
+382
+.bbww
+bbbbw
+bbbbw
+bwwbw
+ww.w.
+
+380 13 b
+382
+.bbww
+bbbbw
+bbbbw
+bwwbw
+wwww.
+
+380 13 w
+382
+.bbww
+bbbbw
+bbbbw
+bwwbw
+wwww.
+380 13 *
+382
+.bbww
+bbbbw
+bbbbw
+bwwbw
+wwww.
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+...b.
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+...b.
+w....
+.....
+.....
+
+380 2 w
+382
+..b..
+...b.
+w....
+.....
+.....
+
+380 3 b
+382
+.wb..
+...b.
+w....
+.....
+.....
+
+380 3 w
+382
+.wb..
+...b.
+w....
+.....
+....b
+
+380 4 b
+382
+.wb..
+...b.
+w....
+....w
+....b
+
+380 4 w
+382
+.wb..
+...b.
+w....
+....w
+...bb
+
+380 5 b
+382
+.wb..
+...b.
+w....
+...ww
+...bb
+
+380 5 w
+382
+.wb..
+...b.
+w....
+...ww
+..bbb
+
+380 6 b
+382
+.wb..
+...bw
+w....
+...ww
+..bbb
+
+380 6 w
+382
+.wb..
+b..bw
+w....
+...ww
+..bbb
+
+380 7 b
+382
+.wb..
+b.wbw
+w....
+...ww
+..bbb
+
+380 7 w
+382
+.wbb.
+b.wbw
+w....
+...ww
+..bbb
+
+380 8 b
+382
+.wbb.
+b.wbw
+w..w.
+...ww
+..bbb
+
+380 8 w
+382
+.wbb.
+b.wbw
+w..w.
+b..ww
+..bbb
+
+380 9 b
+382
+.wbb.
+b.wbw
+ww.w.
+b..ww
+..bbb
+
+380 9 w
+382
+.wbb.
+bbwbw
+ww.w.
+b..ww
+..bbb
+
+380 10 b
+382
+.wbb.
+bbwbw
+ww.w.
+b.www
+..bbb
+
+380 10 w
+382
+.wbb.
+bbwbw
+ww.w.
+b.www
+b.bbb
+
+380 11 b
+382
+.wwww
+bbwww
+ww.w.
+b.www
+b.bbb
+
+380 11 w
+382
+.wwww
+bbwww
+ww.w.
+b.www
+bbbbb
+
+380 12 b
+382
+wwwww
+wwwww
+ww.w.
+b.www
+bbbbb
+
+380 12 w
+382
+wwwww
+wwwww
+ww.w.
+b.www
+bbbbb
+
+380 13 b
+382
+wwwww
+wwwww
+wwww.
+b.www
+bbbbb
+
+380 13 w
+382
+wwwww
+wwwww
+wwww.
+b.www
+bbbbb
+
+380 14 b
+382
+wwwww
+wwwww
+wwww.
+wwwww
+wwwww
+
+380 14 w
+382
+wwwww
+wwwww
+wwww.
+wwwww
+wwwww
+380 14 *
+382
+wwwww
+wwwww
+wwww.
+wwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+....b
+.....
+.....
+
+380 2 b
+382
+.....
+.....
+.w..b
+.....
+.....
+
+380 2 w
+382
+.....
+.....
+.w..b
+....b
+.....
+
+380 3 b
+382
+.....
+.....
+.ww.b
+....b
+.....
+
+380 3 w
+382
+.....
+..b..
+.ww.b
+....b
+.....
+
+380 4 b
+382
+.....
+..b..
+.ww.b
+..w.b
+.....
+
+380 4 w
+382
+.....
+..b..
+.ww.b
+b.w.b
+.....
+
+380 5 b
+382
+.....
+..b..
+.ww.b
+b.w.b
+.w...
+
+380 5 w
+382
+.....
+..b..
+.ww.b
+b.w.b
+bw...
+
+380 6 b
+382
+.....
+..b..
+www.b
+b.w.b
+bw...
+
+380 6 w
+382
+.....
+..bb.
+www.b
+b.w.b
+bw...
+
+380 7 b
+382
+.....
+..bb.
+wwwwb
+b.w.b
+bw...
+
+380 7 w
+382
+.b...
+..bb.
+wwwwb
+b.w.b
+bw...
+
+380 8 b
+382
+.b...
+..bb.
+wwwwb
+b.w.b
+bww..
+
+380 8 w
+382
+.b...
+..bb.
+wwwwb
+b.w.b
+bwwb.
+
+380 9 b
+382
+.b...
+..bb.
+wwwwb
+www.b
+wwwb.
+
+380 9 w
+382
+bb...
+..bb.
+wwwwb
+www.b
+wwwb.
+
+380 10 b
+382
+bbw..
+..bb.
+wwwwb
+www.b
+wwwb.
+
+380 10 w
+382
+bbw.b
+..bb.
+wwwwb
+www.b
+wwwb.
+
+380 11 b
+382
+bbw.b
+..bb.
+wwwwb
+wwwwb
+wwwb.
+
+380 11 w
+382
+bbw.b
+..bbb
+wwwwb
+wwwwb
+wwwb.
+
+380 12 b
+382
+bbw.b
+.wbbb
+wwwwb
+wwwwb
+wwwb.
+
+380 12 w
+382
+bbbbb
+.wbbb
+wwwwb
+wwwwb
+wwwb.
+
+380 13 b
+382
+bbbbb
+.wbbb
+wwwwb
+wwwwb
+wwwb.
+
+380 13 w
+382
+bbbbb
+bbbbb
+bbbbb
+bbbbb
+bbbb.
+
+380 14 b
+382
+bbbbb
+bbbbb
+bbbbb
+bbbbb
+bbbb.
+380 14 *
+382
+bbbbb
+bbbbb
+bbbbb
+bbbbb
+bbbb.
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+....b
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+....b
+.w...
+.....
+.....
+
+380 2 w
+382
+.....
+....b
+.w...
+.....
+...b.
+
+380 3 b
+382
+.....
+....b
+.w...
+.....
+.w.b.
+
+380 3 w
+382
+.....
+....b
+.w...
+....b
+.w.b.
+
+380 4 b
+382
+.....
+....b
+.w...
+w...b
+.w.b.
+
+380 4 w
+382
+.....
+....b
+.w...
+w...b
+.w.bb
+
+380 5 b
+382
+.....
+....b
+.w...
+w.w.b
+.w.bb
+
+380 5 w
+382
+.....
+....b
+.w...
+w.w.b
+.wbbb
+
+380 6 b
+382
+w....
+....b
+.w...
+w.w.b
+.wbbb
+
+380 6 w
+382
+w....
+....b
+.w...
+w.wbb
+.wbbb
+
+380 7 b
+382
+w....
+....b
+.w...
+wwwbb
+.wbbb
+
+380 7 w
+382
+w..b.
+....b
+.w...
+wwwbb
+.wbbb
+
+380 8 b
+382
+w..b.
+....b
+ww...
+wwwbb
+.wbbb
+
+380 8 w
+382
+w..bb
+....b
+ww...
+wwwbb
+.wbbb
+
+380 9 b
+382
+w..bb
+.w..b
+ww...
+wwwbb
+.wbbb
+
+380 9 w
+382
+w..bb
+.w..b
+wwb..
+wwwbb
+.wbbb
+
+380 10 b
+382
+w..bb
+.w..b
+wwbw.
+wwwbb
+.wbbb
+
+380 10 w
+382
+w..bb
+.w..b
+wwbwb
+wwwbb
+.wbbb
+
+380 11 b
+382
+w..bb
+.w.wb
+wwbwb
+wwwbb
+.wbbb
+
+380 11 w
+382
+w..bb
+.wbbb
+wwbbb
+wwwbb
+.wbbb
+
+380 12 b
+382
+ww.bb
+.wbbb
+wwbbb
+wwwbb
+.wbbb
+
+380 12 w
+382
+ww.bb
+.wbbb
+wwbbb
+wwwbb
+.wbbb
+
+380 13 b
+382
+ww.bb
+.wbbb
+wwbbb
+wwwbb
+wwbbb
+
+380 13 w
+382
+ww.bb
+.wbbb
+wwbbb
+wwwbb
+wwbbb
+
+380 14 b
+382
+wwwww
+.wwww
+wwwww
+wwwww
+wwwww
+
+380 14 w
+382
+wwwww
+.wwww
+wwwww
+wwwww
+wwwww
+380 14 *
+382
+wwwww
+.wwww
+wwwww
+wwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.b...
+.....
+.....
+.....
+.....
+
+380 2 b
+382
+.b...
+.....
+.....
+...w.
+.....
+
+380 2 w
+382
+bb...
+.....
+.....
+...w.
+.....
+
+380 3 b
+382
+bb...
+.....
+....w
+...w.
+.....
+
+380 3 w
+382
+bb...
+.....
+....w
+b..w.
+.....
+
+380 4 b
+382
+bb...
+.....
+....w
+b.ww.
+.....
+
+380 4 w
+382
+bb...
+...b.
+....w
+b.ww.
+.....
+
+380 5 b
+382
+bb...
+..wb.
+....w
+b.ww.
+.....
+
+380 5 w
+382
+bb.b.
+..wb.
+....w
+b.ww.
+.....
+
+380 6 b
+382
+bb.b.
+..wb.
+....w
+b.ww.
+...w.
+
+380 6 w
+382
+bb.bb
+..wb.
+....w
+b.ww.
+...w.
+
+380 7 b
+382
+bb.bb
+..wb.
+....w
+b.ww.
+...ww
+
+380 7 w
+382
+bb.bb
+..wb.
+b...w
+b.ww.
+...ww
+
+380 8 b
+382
+bb.bb
+..wb.
+b..ww
+b.ww.
+...ww
+
+380 8 w
+382
+bbbbb
+..wb.
+b..ww
+b.ww.
+...ww
+
+380 9 b
+382
+bbbbb
+..wb.
+b.www
+b.ww.
+...ww
+
+380 9 w
+382
+bbbbb
+..wb.
+b.www
+b.ww.
+b..ww
+
+380 10 b
+382
+bbbbb
+..wbw
+b.www
+b.ww.
+b..ww
+
+380 10 w
+382
+bbbbb
+b.wbw
+b.www
+b.ww.
+b..ww
+
+380 11 b
+382
+bbbbb
+b.wbw
+b.www
+b.ww.
+bw.ww
+
+380 11 w
+382
+bbbbb
+b.wbw
+bbwww
+b.ww.
+bw.ww
+
+380 12 b
+382
+bbbbb
+b.wbw
+bbwww
+b.ww.
+bwwww
+
+380 12 w
+382
+bbbbb
+b.wbw
+bbwww
+bbww.
+bwwww
+
+380 13 b
+382
+wwwww
+wwwww
+wwwww
+wwww.
+wwwww
+
+380 13 w
+382
+wwwww
+wwwww
+wwwww
+wwww.
+wwwww
+380 13 *
+382
+wwwww
+wwwww
+wwwww
+wwww.
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+.....
+b....
+
+380 2 b
+382
+.....
+.....
+.....
+.....
+b..w.
+
+380 2 w
+382
+.....
+.....
+...b.
+.....
+b..w.
+
+380 3 b
+382
+.....
+.....
+...bw
+.....
+b..w.
+
+380 3 w
+382
+.....
+.....
+...bw
+....b
+b..w.
+
+380 4 b
+382
+.....
+.....
+...bw
+....b
+bw.w.
+
+380 4 w
+382
+b....
+.....
+...bw
+....b
+bw.w.
+
+380 5 b
+382
+b..w.
+.....
+...bw
+....b
+bw.w.
+
+380 5 w
+382
+b..w.
+.....
+b..bw
+....b
+bw.w.
+
+380 6 b
+382
+b..w.
+.....
+b..bw
+....b
+bwww.
+
+380 6 w
+382
+b..w.
+...b.
+b..bw
+....b
+bwww.
+
+380 7 b
+382
+b..w.
+...b.
+bw.bw
+....b
+bwww.
+
+380 7 w
+382
+b..w.
+...b.
+bw.bw
+b...b
+bwww.
+
+380 8 b
+382
+b..w.
+...bw
+bw.bw
+b...b
+bwww.
+
+380 8 w
+382
+b..w.
+..White player connected
+.bw
+bwbbw
+b...b
+bwww.
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 9 b
+382
+b..w.
+...bw
+bwbbw
+b.w.b
+bwww.
+
+380 9 w
+382
+b..w.
+b..bw
+bwbbw
+b.w.b
+bwww.
+
+380 10 b
+382
+b..w.
+b.wbw
+bwbbw
+b.w.b
+bwww.
+
+380 10 w
+382
+b.bw.
+b.wbw
+bwbbw
+b.w.b
+bwww.
+
+380 11 b
+382
+b.bw.
+bwwbw
+bwbbw
+b.w.b
+bwww.
+
+380 11 w
+382
+b.bw.
+bwwbw
+bwbbw
+bbw.b
+bwww.
+
+380 12 b
+382
+b.bw.
+bwwbw
+bwbbw
+bbw.b
+bwwww
+
+380 12 w
+382
+b.bw.
+bwwbw
+bwbbw
+bbw.b
+bwwww
+380 12 *
+382
+b.bw.
+bwwbw
+bwbbw
+bbw.b
+bwwww
+Game drawn.
+
+380 1 w
+382
+.....
+.b...
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+.b...
+.....
+..w..
+.....
+
+380 2 w
+382
+b....
+.b...
+.....
+..w..
+.....
+
+380 3 b
+382
+b....
+.b...
+.....
+..ww.
+.....
+
+380 3 w
+382
+b....
+.b...
+.....
+.bww.
+.....
+
+380 4 b
+382
+b.w..
+.b...
+.....
+.bww.
+.....
+
+380 4 w
+382
+bbw..
+.b...
+.....
+.bww.
+.....
+
+380 5 b
+382
+bbw..
+.b...
+..w..
+.bww.
+.....
+
+380 5 w
+382
+bbw..
+.b...
+..w..
+.bwwb
+.....
+
+380 6 b
+382
+bbw..
+.b...
+..w.w
+.bwwb
+.....
+
+380 6 w
+382
+bbw..
+.bb..
+..w.w
+.bwwb
+.....
+
+380 7 b
+382
+bbw..
+.bbw.
+..w.w
+.bwwb
+.....
+
+380 7 w
+382
+bbw..
+.bbw.
+..w.w
+.bwwb
+..b..
+
+380 8 b
+382
+bbw..
+.bbw.
+..www
+.bwwb
+..b..
+
+380 8 w
+382
+bbw..
+.bbw.
+.bwww
+.bwwb
+..b..
+
+380 9 b
+382
+bbw..
+.bbw.
+.bwww
+.bwwb
+w.b..
+
+380 9 w
+382
+bbw..
+.bbw.
+bbwww
+.bwwb
+w.b..
+
+380 10 b
+382
+bbww.
+.bbw.
+bbwww
+.bwwb
+w.b..
+
+380 10 w
+382
+bbww.
+.bbw.
+bbwww
+.bwwb
+w.bb.
+
+380 11 b
+382
+bbwww
+.bbw.
+bbwww
+.bwwb
+w.bb.
+
+380 11 w
+382
+bbwww
+.bbw.
+bbwww
+.bwwb
+wbbb.
+
+380 12 b
+382
+bbwww
+.bbw.
+bbwww
+.bwwb
+wbbb.
+
+380 12 w
+382
+bbwww
+.bbw.
+bbwww
+bbwwb
+bbbb.
+
+380 13 b
+382
+bbwww
+.bbw.
+bbwww
+bbwwb
+bbbb.
+
+380 13 w
+382
+bbwww
+.bbw.
+bbwww
+bbwwb
+bbbbb
+
+380 14 b
+382
+bbwww
+.bbw.
+bbwww
+bbwwb
+bbbbb
+380 14 *
+382
+bbwww
+.bbw.
+bbwww
+bbwwb
+bbbbb
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+....b
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+.w..b
+.....
+.....
+.....
+
+380 2 w
+382
+.b...
+.w..b
+.....
+.....
+.....
+
+380 3 b
+382
+.b...
+.w..b
+.....
+.....
+...w.
+
+380 3 w
+382
+.b...
+.w..b
+..b..
+.....
+...w.
+
+380 4 b
+382
+.b...
+.w..b
+..b..
+....w
+...w.
+
+380 4 w
+382
+.b...
+.w..b
+..b..
+...bw
+...w.
+
+380 5 b
+382
+.b.w.
+.w..b
+..b..
+...bw
+...w.
+
+380 5 w
+382
+.b.w.
+.w..b
+..b..
+...bw
+b..w.
+
+380 6 b
+382
+.b.w.
+.w..b
+..b..
+...bw
+bw.w.
+
+380 6 w
+382
+.b.w.
+.w..b
+..b..
+b..bw
+bw.w.
+
+380 7 b
+382
+.b.w.
+.w..b
+.wb..
+b..bw
+bw.w.
+
+380 7 w
+382
+.b.wb
+.w..b
+.wb..
+b..bw
+bw.w.
+
+380 8 b
+382
+.b.wb
+.w.wb
+.wb..
+b..bw
+bw.w.
+
+380 8 w
+382
+.b.wb
+.w.wb
+.wb..
+b..bw
+bwbw.
+
+380 9 b
+382
+.b.wb
+.w.wb
+.wb..
+b.wbw
+bwww.
+
+380 9 w
+382
+.b.wb
+.wbwb
+.wb..
+b.wbw
+bwww.
+
+380 10 b
+382
+.b.wb
+.wbwb
+.wbw.
+b.www
+bwww.
+
+380 10 w
+382
+.b.wb
+bwbwb
+.wbw.
+b.www
+bwww.
+
+380 11 b
+382
+.bwwb
+bwwwb
+.www.
+b.www
+bwww.
+
+380 11 w
+382
+.bwwb
+bwwwb
+bwww.
+b.www
+bwww.
+
+380 12 b
+382
+.bwwb
+bwwwb
+bwww.
+bwwww
+bwww.
+
+380 12 w
+382
+.bwwb
+bwwwb
+bwww.
+bwwww
+bwww.
+
+380 13 b
+382
+.bwwb
+bwwwb
+bwww.
+bwwww
+bwwww
+
+380 13 w
+382
+.bwwb
+bwwwb
+bwww.
+bwwww
+bwwww
+380 13 *
+382
+.bwwb
+bwwwb
+bwww.
+bwwww
+bwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+..b..
+.....
+.....
+.....
+
+380 2 b
+382
+..w..
+..b..
+.....
+.....
+.....
+
+380 2 w
+382
+..w..
+..b..
+b....
+.....
+.....
+
+380 3 b
+382
+..w..
+..b..
+b...w
+.....
+.....
+
+380 3 w
+382
+..w..
+b.b..
+b...w
+.....
+.....
+
+380 4 b
+382
+..w.w
+b.b..
+b...w
+.....
+.....
+
+380 4 w
+382
+..w.w
+b.b..
+b...w
+....b
+.....
+
+380 5 b
+382
+..w.w
+b.b..
+b...w
+....b
+..w..
+
+380 5 w
+382
+..w.w
+b.b..
+b...w
+....b
+..w.b
+
+380 6 b
+382
+..w.w
+b.b..
+b...w
+...wb
+..w.b
+
+380 6 w
+382
+.bw.w
+b.b..
+b...w
+...wb
+..w.b
+
+380 7 b
+382
+.bw.w
+b.bw.
+b...w
+...wb
+..w.b
+
+380 7 w
+382
+.bw.w
+b.bw.
+b...w
+..bwb
+..w.b
+
+380 8 b
+382
+.bw.w
+b.bw.
+b...w
+..bww
+..www
+
+380 8 w
+382
+bbw.w
+b.bw.
+b...w
+..bww
+..www
+
+380 9 b
+382
+bbw.w
+b.bw.
+b.w.w
+..bww
+..www
+
+380 9 w
+382
+bbw.w
+b.bw.
+bbw.w
+..bww
+..www
+
+380 10 b
+382
+bbw.w
+b.bw.
+bbw.w
+.wwww
+..www
+
+380 10 w
+382
+bbw.w
+b.bw.
+bbw.w
+.wwww
+.bwww
+
+380 11 b
+382
+bbw.w
+b.bw.
+bbw.w
+.wwww
+wwwww
+
+380 11 w
+382
+bbw.w
+bbbw.
+bbw.w
+.wwww
+wwwww
+
+380 12 b
+382
+bbwww
+bbbw.
+bbw.w
+.wwww
+wwwww
+
+380 12 w
+382
+bbwww
+bbbw.
+bbw.w
+.wwww
+wwwww
+
+380 13 b
+382
+bbwww
+bbbw.
+bbwww
+.wwww
+wwwww
+
+380 13 w
+382
+bbwww
+bbbw.
+bbwww
+.wwww
+wwwww
+
+380 14 b
+382
+bbwww
+bbbww
+bbwww
+.wwww
+wwwww
+
+380 14 w
+382
+bbwww
+bbbww
+bbwww
+.wwww
+wwwww
+380 14 *
+382
+bbwww
+bbbww
+bbwww
+.wwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+...b.
+.....
+.....
+.....
+.....
+
+380 2 b
+382
+...b.
+.....
+...w.
+.....
+.....
+
+380 2 w
+382
+...b.
+.....
+.b.w.
+.....
+.....
+
+380 3 b
+382
+.w.b.
+.....
+.b.w.
+.....
+.....
+
+380 3 w
+382
+.w.b.
+.....
+.b.w.
+.....
+b....
+
+380 4 b
+382
+.w.b.
+.....
+.b.w.
+.....
+b..w.
+
+380 4 w
+382
+.w.b.
+.....
+.b.w.
+..b..
+b..w.
+
+380 5 b
+382
+.w.b.
+.....
+.b.w.
+..b..
+bw.w.
+
+380 5 w
+382
+.w.b.
+.....
+.b.w.
+b.b..
+bw.w.
+
+380 6 b
+382
+.w.b.
+.....
+.b.w.
+b.b..
+bwww.
+
+380 6 w
+382
+.w.b.
+.....
+.b.w.
+bbb..
+bwww.
+
+380 7 b
+382
+ww.b.
+.....
+.b.w.
+bbb..
+bwww.
+
+380 7 w
+382
+ww.b.
+.....
+bb.w.
+bbb..
+bwww.
+
+380 8 b
+382
+ww.b.
+...w.
+bb.w.
+bbb..
+bwww.
+
+380 8 w
+382
+ww.b.
+.b.w.
+bb.w.
+bbb..
+bwww.
+
+380 9 b
+382
+ww.b.
+.bww.
+bb.w.
+bbb..
+bwww.
+
+380 9 w
+382
+ww.b.
+.bwwb
+bb.w.
+bbb..
+bwww.
+
+380 10 b
+382
+wwwb.
+.bwwb
+bb.w.
+bbb..
+bwww.
+
+380 10 w
+382
+wwwb.
+bbwwb
+bb.w.
+bbb..
+bwww.
+
+380 11 b
+382
+wwwb.
+bbwwb
+bb.w.
+bbb.w
+bwww.
+
+380 11 w
+382
+wwwbb
+bbwwb
+bb.w.
+bbb.w
+bwww.
+
+380 12 b
+382
+wwwbb
+bbwwb
+bb.w.
+bbbww
+bwww.
+
+380 12 w
+382
+wwwbb
+bbwwb
+bb.w.
+bbbww
+bwww.
+
+380 13 b
+382
+wwwww
+bbwww
+bb.ww
+bbbww
+bwww.
+
+380 13 w
+382
+wwwww
+bbwww
+bb.ww
+bbbww
+bwww.
+
+380 14 b
+382
+wwwww
+wwwww
+wwwww
+wwwww
+wwww.
+
+380 14 w
+382
+wwwww
+wwwww
+wwwww
+wwwww
+wwww.
+380 14 *
+382
+wwwww
+wwwww
+wwwww
+wwwww
+wwww.
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+...b.
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+...b.
+.....
+.....
+...w.
+
+380 2 w
+382
+.....
+...bb
+.....
+.....
+...w.
+
+380 3 b
+382
+..w..
+...bb
+.....
+.....
+...w.
+
+380 3 w
+382
+.bw..
+...bb
+.....
+.....
+...w.
+
+380 4 b
+382
+.bw..
+..wbb
+.....
+.....
+...w.
+
+380 4 w
+382
+.bw..
+..wbb
+.....
+.....
+b..w.
+
+380 5 b
+382
+.bw..
+..wbb
+.....
+..w..
+b..w.
+
+380 5 w
+382
+.bw..
+..wbb
+.....
+..w..
+bb.w.
+
+380 6 b
+382
+.bw..
+..wbb
+.w...
+..w..
+bb.w.
+
+380 6 w
+382
+.bw..
+..wbb
+bw...
+..w..
+bb.w.
+
+380 7 b
+382
+.bw..
+w.wbb
+bw...
+..w..
+bb.w.
+
+380 7 w
+382
+.bw..
+w.wbb
+bw...
+b.w..
+bb.w.
+
+380 8 b
+382
+.bw..
+w.wbb
+bw...
+bww..
+bb.w.
+
+380 8 w
+382
+.bw..
+w.wbb
+bw...
+bwwb.
+bb.w.
+
+380 9 b
+382
+.bw..
+w.wbb
+bw...
+bwwbw
+bb.w.
+
+380 9 w
+382
+.bw..
+wbwbb
+bw...
+bwwbw
+bb.w.
+
+380 10 b
+382
+.bw..
+wbwbb
+bw.w.
+bwwww
+bb.w.
+
+380 10 w
+382
+.bw..
+wbwbb
+bw.wb
+bwwww
+bb.w.
+
+380 11 b
+382
+.bw.w
+wbwbb
+bw.wb
+bwwww
+bb.w.
+
+380 11 w
+382
+.bw.w
+wbwbb
+bw.wb
+bwwww
+bb.w.
+
+380 12 b
+382
+.bw.w
+wbwbb
+bw.wb
+bwwww
+bb.ww
+
+380 12 w
+382
+.bw.w
+wbwbb
+bw.wb
+bwwww
+bb.ww
+
+380 13 b
+382
+.bw.w
+wbwbb
+bwwwb
+bwwww
+bb.ww
+
+380 13 w
+382
+.bw.w
+wbwbb
+bwwwb
+bwwww
+bb.ww
+
+380 14 b
+382
+.bwww
+wbwww
+bwwww
+bwwww
+bb.ww
+
+380 14 w
+382
+.bwww
+wbwww
+bwwww
+bwwww
+bb.ww
+380 14 *
+382
+.bwww
+wbwww
+bwwww
+bwwww
+bb.ww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+....b
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+..w.b
+.....
+.....
+.....
+
+380 2 w
+382
+.....
+..w.b
+....b
+.....
+.....
+
+380 3 b
+382
+.....
+..w.b
+....b
+.....
+..w..
+
+380 3 w
+382
+.....
+b.w.b
+....b
+.....
+..w..
+
+380 4 b
+382
+.....
+b.w.b
+...wb
+.....
+..w..
+
+380 4 w
+382
+....b
+b.w.b
+...wb
+.....
+..w..
+
+380 5 b
+382
+....b
+b.w.b
+...wb
+....w
+..w..
+
+380 5 w
+382
+...bb
+b.w.b
+...wb
+....w
+..w..
+
+380 6 b
+382
+..wbb
+b.w.b
+...wb
+....w
+..w..
+
+380 6 w
+382
+..wbb
+b.w.b
+b..wb
+....w
+..w..
+
+380 7 b
+382
+..wbb
+bww.b
+b..wb
+....w
+..w..
+
+380 7 w
+382
+..wbb
+bww.b
+b..wb
+....w
+..w.b
+
+380 8 b
+382
+..www
+bwwww
+b..ww
+....w
+..w.b
+
+380 8 w
+382
+.bwww
+bwwww
+b..ww
+....w
+..w.b
+
+380 9 b
+382
+.bwww
+bwwww
+b..ww
+...ww
+..w.b
+
+380 9 w
+382
+bbwww
+bwwww
+b..ww
+...ww
+..w.b
+
+380 10 b
+382
+bbwww
+bwwww
+b..ww
+.w.ww
+..w.b
+
+380 10 w
+382
+bbwww
+bwwww
+b..ww
+.wbww
+..w.b
+
+380 11 b
+382
+bbwww
+bwwww
+bw.ww
+.wbww
+..w.b
+
+380 11 w
+382
+bbwww
+bwwww
+bw.ww
+bwbww
+..w.b
+
+380 12 b
+382
+wwwww
+wwwww
+ww.ww
+wwbww
+w.w.b
+
+380 12 w
+382
+wwwww
+wwwww
+ww.ww
+wwbww
+w.w.b
+
+380 13 b
+382
+wwwww
+wwwww
+ww.ww
+wwbww
+w.www
+
+380 13 w
+382
+wwwww
+wwwww
+ww.ww
+wwbww
+w.www
+
+380 14 b
+382
+wwwww
+wwwww
+ww.ww
+wwbww
+wwwww
+
+380 14 w
+382
+wwwww
+wwwww
+ww.ww
+wwbww
+wwwww
+380 14 *
+382
+wwwww
+wwwww
+ww.ww
+wwbww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+..b..
+.....
+.....
+
+380 2 b
+382
+.....
+.....
+..b.w
+.....
+.....
+
+380 2 w
+382
+b....
+.....
+..b.w
+.....
+.....
+
+380 3 b
+382
+b....
+.....
+..b.w
+.....
+...w.
+
+380 3 w
+382
+b.b..
+.....
+..b.w
+.....
+...w.
+
+380 4 b
+382
+b.b..
+.....
+..b.w
+w....
+...w.
+
+380 4 w
+382
+b.b..
+.....
+..b.w
+w...b
+...w.
+
+380 5 b
+382
+b.b..
+.....
+..b.w
+w..wb
+...w.
+
+380 5 w
+382
+b.b..
+.....
+..b.w
+w..wb
+b..w.
+
+380 6 b
+382
+b.b..
+.....
+..b.w
+w..wb
+ww.w.
+
+380 6 w
+382
+b.b..
+.....
+..bbw
+w..wb
+ww.w.
+
+380 7 b
+382
+b.b..
+.....
+..bbw
+w..ww
+ww.ww
+
+380 7 w
+382
+b.bb.
+.....
+..bbw
+w..ww
+ww.ww
+
+380 8 b
+382
+b.bb.
+.....
+.wbbw
+w..ww
+ww.ww
+
+380 8 w
+382
+b.bb.
+b....
+.wbbw
+w..ww
+ww.ww
+
+380 9 b
+382
+b.bb.
+b....
+.wbbw
+w.www
+ww.ww
+
+380 9 w
+382
+b.bb.
+bb...
+.wbbw
+w.www
+ww.ww
+
+380 10 b
+382
+b.bb.
+bb...
+wwbbw
+w.www
+ww.ww
+
+380 10 w
+382
+b.bb.
+bb..b
+wwbbw
+w.www
+ww.ww
+
+380 11 b
+382
+b.bb.
+bbw.b
+wwbbw
+w.www
+ww.ww
+
+380 11 w
+382
+b.bb.
+bbbbb
+wwbbw
+w.www
+ww.ww
+
+380 12 b
+382
+b.bb.
+bbbbb
+wwbbw
+w.www
+wwwww
+
+380 12 w
+382
+bbbb.
+bbbbb
+wwbbw
+w.www
+wwwww
+
+380 13 b
+382
+bbbb.
+bbbbb
+wwbbw
+w.www
+wwwww
+380 13 *
+382
+bbbb.
+bbbbb
+wwbbw
+w.www
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+....b
+.....
+
+380 2 b
+382
+.....
+.....
+.....
+.w..b
+.....
+
+380 2 w
+382
+.....
+.....
+.....
+.w..b
+....b
+
+380 3 b
+382
+.....
+.....
+.....
+.w.wb
+....b
+
+380 3 w
+382
+.....
+.....
+.b...
+.w.wb
+....b
+
+380 4 b
+382
+.....
+.....
+.b..w
+.w.wb
+....b
+
+380 4 w
+382
+....b
+.....
+.b..w
+.w.wb
+....b
+
+380 5 b
+382
+....b
+.....
+.b..w
+ww.wb
+....b
+
+380 5 w
+382
+.b..b
+.....
+.b..w
+ww.wb
+....b
+
+380 6 b
+382
+.b..b
+..w..
+.b..w
+ww.wb
+....b
+
+380 6 w
+382
+.b..b
+..w..
+.bb.w
+ww.wb
+....b
+
+380 7 b
+382
+.b..b
+.ww..
+.bb.w
+ww.wb
+....b
+
+380 7 w
+382
+.b.bb
+.ww..
+.bb.w
+ww.wb
+....b
+
+380 8 b
+382
+.b.bb
+.ww..
+.bb.w
+ww.wb
+..w.b
+
+380 8 w
+382
+.b.bb
+.ww..
+bbb.w
+ww.wb
+..w.b
+
+380 9 b
+382
+.b.bb
+.ww..
+bbb.w
+ww.wb
+.ww.b
+
+380 9 w
+382
+.b.bb
+.ww..
+bbb.w
+wwbwb
+.ww.b
+
+380 10 b
+382
+.b.bb
+www..
+bbb.w
+wwbwb
+.ww.b
+
+380 10 w
+382
+.b.bb
+wwwb.
+bbb.w
+wwbwb
+.ww.b
+
+380 11 b
+382
+.bwbb
+wwwb.
+bbb.w
+wwbwb
+.ww.b
+
+380 11 w
+382
+.bwbb
+wwwb.
+bbbbw
+wwbwb
+.ww.b
+
+380 12 b
+382
+.bwbb
+wwwb.
+bbbbw
+wwbww
+.wwww
+
+380 12 w
+382
+.bwbb
+wwwb.
+bbbbw
+wwbww
+.wwww
+
+380 13 b
+382
+.bwbb
+wwwb.
+bbbbw
+wwbww
+wwwww
+
+380 13 w
+382
+.bwbb
+wwwb.
+bbbbw
+wwbww
+wwwww
+380 13 *
+382
+.bwbb
+wwwb.
+bbbbw
+wwbww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+..b..
+.....
+
+380 2 b
+382
+.w...
+.....
+.....
+..b..
+.....
+
+380 2 w
+382
+.w...
+.....
+.....
+..bb.
+.....
+
+380 3 b
+382
+ww...
+.....
+.....
+..bb.
+.....
+
+380 3 w
+382
+ww...
+.....
+b....
+..bb.
+.....
+
+380 4 b
+382
+ww..w
+.....
+b....
+..bb.
+.....
+
+380 4 w
+382
+ww..w
+....b
+b....
+..bb.
+.....
+
+380 5 b
+382
+ww.ww
+....b
+b....
+..bb.
+.....
+
+380 5 w
+382
+ww.ww
+..b.b
+b....
+..bb.
+.....
+
+380 6 b
+382
+ww.ww
+..b.b
+b...w
+..bb.
+.....
+
+380 6 w
+382
+ww.ww
+..bbb
+b...w
+..bb.
+.....
+
+380 7 b
+382
+ww.ww
+..bbb
+b...w
+..bb.
+...w.
+
+380 7 w
+382
+ww.ww
+.bbbb
+b...w
+..bb.
+...w.
+
+380 8 b
+382
+ww.ww
+.bbbb
+b...w
+..bb.
+..ww.
+
+380 8 w
+382
+ww.ww
+bbbbb
+b...w
+..bb.
+..ww.
+
+380 9 b
+382
+ww.ww
+bbbbb
+b...w
+.wbb.
+..ww.
+
+380 9 w
+382
+ww.ww
+bbbbb
+b..bw
+.wbb.
+..ww.
+
+380 10 b
+382
+ww.ww
+bbbbb
+b..bw
+.wbbw
+..ww.
+
+380 10 w
+382
+ww.ww
+bbbbb
+bb.bw
+.wbbw
+..ww.
+
+380 11 b
+382
+ww.ww
+bbbbb
+bb.bw
+.wbbw
+w.ww.
+
+380 11 w
+382
+ww.ww
+bbbbb
+bb.bw
+bwbbw
+w.ww.
+
+380 12 b
+382
+ww.ww
+bbbbb
+bb.bw
+bwbbw
+w.www
+
+380 12 w
+382
+ww.ww
+bbbbb
+bbbbw
+bwbbw
+w.www
+
+380 13 b
+382
+ww.ww
+bbbbb
+bbbbw
+bwbbw
+w.www
+380 13 *
+382
+ww.ww
+bbbbb
+bbbbw
+bwbbw
+w.www
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+..b..
+.....
+
+380 2 b
+382
+.....
+.....
+.....
+w.b..
+.....
+
+380 2 w
+382
+.....
+.b...
+.....
+w.b..
+.....
+
+380 3 b
+382
+.....
+.b...
+..w..
+w.b..
+.....
+
+380 3 w
+382
+.....
+.b..b
+..w..
+w.b..
+.....
+
+380 4 b
+382
+.....
+.b.wb
+..w..
+w.b..
+.....
+
+380 4 w
+382
+.....
+.b.wb
+..w..
+w.b..
+..b..
+
+380 5 b
+382
+.....
+wb.wb
+..w..
+w.b..
+..b..
+
+380 5 w
+382
+.....
+wb.wb
+..w..
+w.b..
+..bb.
+
+380 6 b
+382
+.w...
+wb.wb
+..w..
+w.b..
+..bb.
+
+380 6 w
+382
+.w.b.
+wb.wb
+..w..
+w.b..
+..bb.
+
+380 7 b
+382
+.w.b.
+wb.wb
+.ww..
+w.b..
+..bb.
+
+380 7 w
+382
+.w.b.
+wb.wb
+.ww..
+w.b..
+..bbb
+
+380 8 b
+382
+.wwb.
+wb.wb
+.ww..
+w.b..
+..bbb
+
+380 8 w
+382
+.wwb.
+wb.wb
+.ww..
+wbb..
+..bbb
+
+380 9 b
+382
+.wwb.
+wwwwb
+.ww..
+wbb..
+..bbb
+
+380 9 w
+382
+.wwb.
+wwwwb
+.ww..
+wbbb.
+..bbb
+
+380 10 b
+382
+.wwb.
+wwwwb
+.ww.w
+wbbb.
+..bbb
+
+380 10 w
+382
+.wwb.
+wwwwb
+.ww.w
+wbbb.
+.bbbb
+
+380 11 b
+382
+.wwb.
+wwwwb
+.wwww
+wbbb.
+.bbbb
+
+380 11 w
+382
+.wwb.
+wwwwb
+.wwww
+wbbb.
+bbbbb
+
+380 12 b
+382
+.wwb.
+wwwwb
+wwwww
+wbbb.
+bbbbb
+
+380 12 w
+382
+.wwb.
+wwwwb
+wwwww
+wbbb.
+bbbbb
+
+380 13 b
+382
+wwwb.
+wwwwb
+wwwww
+wbbb.
+bbbbb
+
+380 13 w
+382
+wwwb.
+wwwwb
+wwwww
+wbbb.
+bbbbb
+380 13 *
+382
+wwwb.
+wwwwb
+wwwww
+wbbb.
+bbbbb
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+....b
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+....b
+...w.
+.....
+.....
+
+380 2 w
+382
+b....
+....b
+...w.
+.....
+.....
+
+380 3 b
+382
+b....
+...wb
+...w.
+.....
+.....
+
+380 3 w
+382
+b....
+...wb
+...w.
+.b...
+.....
+
+380 4 b
+382
+b....
+...wb
+...w.
+.b.w.
+.....
+
+380 4 w
+382
+b....
+...wb
+...w.
+.b.w.
+..b..
+
+380 5 b
+382
+b.w..
+...wb
+...w.
+.b.w.
+..b..
+
+380 5 w
+382
+b.w..
+...wb
+.b.w.
+.b.w.
+..b..
+
+380 6 b
+382
+b.w..
+w..wb
+.b.w.
+.b.w.
+..b..
+
+380 6 w
+382
+b.w..
+w..wb
+.b.w.
+.b.w.
+b.b..
+
+380 7 b
+382
+b.w..
+w..wb
+.b.w.
+.b.ww
+b.b..
+
+380 7 w
+382
+b.w..
+w..wb
+.b.w.
+.bbww
+b.b..
+
+380 8 b
+382
+b.w..
+ww.wb
+.b.w.
+.bbww
+b.b..
+
+380 8 w
+382
+b.w..
+ww.wb
+.b.w.
+.bbww
+b.b.b
+
+380 9 b
+382
+b.w..
+ww.wb
+.b.w.
+.bbww
+b.bww
+
+380 9 w
+382
+b.w.b
+ww.wb
+.b.w.
+.bbww
+b.bww
+
+380 10 b
+382
+b.w.b
+ww.wb
+.b.ww
+.bbww
+b.bww
+
+380 10 w
+382
+b.w.b
+ww.wb
+.b.ww
+.bbww
+bbbww
+
+380 11 b
+382
+b.w.b
+ww.wb
+.bwww
+.bbww
+bbbww
+
+380 11 w
+382
+b.w.b
+ww.wb
+bbwww
+.bbww
+bbbww
+
+380 12 b
+382
+b.w.b
+wwwwb
+bbwww
+.bbww
+bbbww
+
+380 12 w
+382
+b.w.b
+wwwwb
+bbwww
+.bbww
+bbbww
+
+380 13 b
+382
+www.b
+wwwwb
+bbwww
+.bbww
+bbbww
+
+380 13 w
+382
+www.b
+wwwwb
+bbwww
+.bbww
+bbbww
+380 13 *
+382
+www.b
+wwwwb
+bbwww
+.bbww
+bbbww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+..b..
+.....
+.....
+
+380 2 b
+382
+.....
+w....
+..b..
+.....
+.....
+
+380 2 w
+382
+.b...
+w....
+..b..
+.....
+.....
+
+380 3 b
+382
+.b...
+w....
+..b..
+.....
+....w
+
+380 3 w
+382
+.b...
+w....
+..b..
+.....
+.b..w
+
+380 4 b
+382
+.b...
+w....
+..b..
+....w
+.b..w
+
+380 4 w
+382
+.b...
+w..b.
+..b..
+....w
+.b..w
+
+380 5 b
+382
+.b...
+w..b.
+..b..
+...ww
+.b..w
+
+380 5 w
+382
+.b...
+w..b.
+..b..
+...ww
+.bb.w
+
+380 6 b
+382
+.b...
+w..b.
+..b..
+...ww
+.bbww
+
+380 6 w
+382
+.b...
+w.bb.
+..b..
+...ww
+.bbww
+
+380 7 b
+382
+.b.w.
+w.bb.
+..b..
+...ww
+.bbww
+
+380 7 w
+382
+.b.w.
+w.bb.
+..bb.
+...ww
+.bbww
+
+380 8 b
+382
+.b.w.
+w.bb.
+.wbb.
+...ww
+.bbww
+
+380 8 w
+382
+.b.w.
+w.bb.
+.wbbb
+...ww
+.bbww
+
+380 9 b
+382
+.b.w.
+w.bb.
+wwbbb
+...ww
+.bbww
+
+380 9 w
+382
+.b.w.
+wbbb.
+wwbbb
+...ww
+.bbww
+
+380 10 b
+382
+.b.ww
+wbbb.
+wwbbb
+...ww
+.bbww
+
+380 10 w
+382
+bb.ww
+wbbb.
+wwbbb
+...ww
+.bbww
+
+380 11 b
+382
+bb.ww
+wbbb.
+wwbbb
+...ww
+wbbww
+
+380 11 w
+382
+bbbww
+wbbb.
+wwbbb
+...ww
+wbbww
+
+380 12 b
+382
+bbbww
+wbbb.
+wwbbb
+..www
+wbbww
+
+380 12 w
+382
+bbbww
+wbbb.
+wwbbb
+.bbbb
+wbbbb
+
+380 13 b
+382
+bbbww
+wbbb.
+wwbbb
+.bbbb
+wbbbb
+
+380 13 w
+382
+bbbbb
+wbbbb
+wwbbb
+.bbbb
+wbbbb
+
+380 14 b
+382
+bbbbb
+wbbbb
+wwbbb
+.bbbb
+wbbbb
+380 14 *
+382
+bbbbb
+wbbbb
+wwbbb
+.bbbb
+wbbbb
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+..b..
+.....
+.....
+.....
+.....
+
+380 2 b
+382
+..b..
+.....
+.....
+.....
+...w.
+
+380 2 w
+382
+..b..
+b....
+.....
+.....
+...w.
+
+380 3 b
+382
+..b..
+b....
+.....
+.....
+..ww.
+
+380 3 w
+382
+..b..
+b.b..
+.....
+.....
+..ww.
+
+380 4 b
+382
+..b..
+b.bw.
+.....
+.....
+..ww.
+
+380 4 w
+382
+b.b..
+b.bw.
+.....
+.....
+..ww.
+
+380 5 b
+382
+b.b..
+b.bw.
+....w
+.....
+..ww.
+
+380 5 w
+382
+b.b..
+b.bw.
+....w
+b....
+..ww.
+
+380 6 b
+382
+b.b..
+b.bw.
+...ww
+b....
+..ww.
+
+380 6 w
+382
+b.b..
+b.bw.
+...ww
+b.b..
+..ww.
+
+380 7 b
+382
+b.b.w
+b.bw.
+...ww
+b.b..
+..ww.
+
+380 7 w
+382
+b.b.w
+b.bw.
+...ww
+b.b.b
+..ww.
+
+380 8 b
+382
+b.b.w
+b.bw.
+...ww
+b.bwb
+..ww.
+
+380 8 w
+382
+b.b.w
+b.bw.
+...ww
+bbbwb
+..ww.
+
+380 9 b
+382
+b.b.w
+b.bw.
+..www
+bbbwb
+..ww.
+
+380 9 w
+382
+bbb.w
+b.bw.
+..www
+bbbwb
+..ww.
+
+380 10 b
+382
+bbb.w
+b.bw.
+..www
+bbbwb
+.www.
+
+380 10 w
+382
+bbb.w
+bbbw.
+..www
+bbbwb
+.www.
+
+380 11 b
+382
+bbb.w
+bbbw.
+w.www
+bbbwb
+.www.
+
+380 11 w
+382
+bbb.w
+bbbw.
+w.www
+bbbwb
+bwww.
+
+380 12 b
+382
+bbb.w
+bbbw.
+w.www
+bbbww
+bwwww
+
+380 12 w
+382
+bbb.w
+bbbw.
+bbwww
+bbbww
+bwwww
+
+380 13 b
+382
+bbb.w
+bbbww
+bbwww
+bbbww
+bwwww
+
+380 13 w
+382
+bbb.w
+bbbww
+bbwww
+bbbww
+bwwww
+380 13 *
+382
+bbb.w
+bbbww
+bbwww
+bbbww
+bwwww
+Game drawn.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+...b.
+.....
+.....
+
+380 2 b
+382
+w....
+.....
+...b.
+.....
+.....
+
+380 2 w
+382
+w....
+....b
+...b.
+.....
+.....
+
+380 3 b
+382
+w....
+....b
+...b.
+.....
+..w..
+
+380 3 w
+382
+w..b.
+....b
+...b.
+.....
+..w..
+
+380 4 b
+382
+w..b.
+..w.b
+...b.
+.....
+..w..
+
+380 4 w
+382
+w..bb
+..w.b
+...b.
+.....
+..w..
+
+380 5 b
+382
+w..bb
+..w.b
+...b.
+.....
+w.w..
+
+380 5 w
+382
+w..bb
+..w.b
+b..b.
+.....
+w.w..
+
+380 6 b
+382
+w.wbb
+..w.b
+b..b.
+.....
+w.w..
+
+380 6 w
+382
+w.wbb
+..w.b
+b..bb
+.....
+w.w..
+
+380 7 b
+382
+w.wbb
+..wwb
+b..bb
+.....
+w.w..
+
+380 7 w
+382
+w.wbb
+b.wwb
+b..bb
+.....
+w.w..
+
+380 8 b
+382
+w.wbb
+bwwwb
+b..bb
+.....
+w.w..
+
+380 8 w
+382
+w.wbb
+bwwwb
+b..bb
+.....
+w.w.b
+
+380 9 b
+382
+w.wbb
+bwwwb
+bw.bb
+.....
+w.w.b
+
+380 9 w
+382
+w.wbb
+bwwwb
+bw.bb
+..b..
+w.w.b
+
+380 10 b
+382
+w.wbb
+wwwwb
+ww.bb
+w.b..
+w.w.b
+
+380 10 w
+382
+w.wbb
+wwwwb
+ww.bb
+w.b.b
+w.w.b
+
+380 11 b
+382
+w.wbb
+wwwwb
+ww.bb
+wwb.b
+w.w.b
+
+380 11 w
+382
+w.wbb
+wwwwb
+ww.bb
+wwbbb
+w.w.b
+
+380 12 b
+382
+w.wbb
+wwwwb
+wwwbb
+wwbbb
+w.w.b
+
+380 12 w
+382
+w.wbb
+wwwwb
+wwwbb
+wwbbb
+w.w.b
+
+380 13 b
+382
+w.wbb
+wwwwb
+wwwbb
+wwbbb
+www.b
+
+380 13 w
+382
+w.wbb
+wwwwb
+wwwbb
+wwbbb
+www.b
+
+380 14 b
+382
+w.www
+wwwww
+wwwww
+wwwww
+wwwww
+
+380 14 w
+382
+w.www
+wwwww
+wwwww
+wwwww
+wwwww
+380 14 *
+382
+w.www
+wwwww
+wwwww
+wwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+....b
+.....
+
+380 2 b
+382
+.....
+.....
+.....
+....b
+.w...
+
+380 2 w
+382
+.....
+.....
+....b
+....b
+.w...
+
+380 3 b
+382
+.....
+.....
+..w.b
+....b
+.w...
+
+380 3 w
+382
+.....
+..b..
+..w.b
+....b
+.w...
+
+380 4 b
+382
+.w...
+..b..
+..w.b
+....b
+.w...
+
+380 4 w
+382
+.w...
+..b..
+..w.b
+b...b
+.w...
+
+380 5 b
+382
+.w...
+..b..
+..w.b
+b...b
+.ww..
+
+380 5 w
+382
+.w...
+..b..
+.bw.b
+b...b
+.ww..
+
+380 6 b
+382
+.w...
+..b..
+.bw.b
+b.w.b
+.ww..
+
+380 6 w
+382
+.w...
+..b..
+.bw.b
+b.w.b
+.ww.b
+
+380 7 b
+382
+.w...
+..b..
+.bw.b
+b.w.b
+www.b
+
+380 7 w
+382
+.w...
+b.b..
+.bw.b
+b.w.b
+www.b
+
+380 8 b
+382
+.w...
+b.b..
+.bw.b
+bww.b
+www.b
+
+380 8 w
+382
+bw...
+b.b..
+.bw.b
+bww.b
+www.b
+
+380 9 b
+382
+bw.w.
+b.b..
+.bw.b
+bww.b
+www.b
+
+380 9 w
+382
+bwbw.
+b.b..
+.bw.b
+bww.b
+www.b
+
+380 10 b
+382
+bwbw.
+b.b.w
+.bw.b
+bww.b
+www.b
+
+380 10 w
+382
+bwbw.
+b.b.w
+.bwbb
+bww.b
+www.b
+
+380 11 b
+382
+bwbw.
+b.b.w
+.bwbb
+bwwwb
+www.b
+
+380 11 w
+382
+bwbw.
+b.bbw
+.bwbb
+bwwwb
+www.b
+
+380 12 b
+382
+bwbw.
+b.bbw
+.bwbb
+bwwwb
+www.b
+
+380 12 w
+382
+bbbw.
+bbbbw
+.bwbb
+bwwwb
+www.b
+
+380 13 b
+382
+bbbw.
+bbbbw
+.bwbb
+bwwwb
+www.b
+
+380 13 w
+382
+bbbw.
+bbbbw
+bbwbb
+bwwwb
+www.b
+
+380 14 b
+382
+bbbw.
+bbbbw
+bbwbb
+bwwwb
+www.b
+380 14 *
+382
+bbbw.
+bbbbw
+bbwbb
+bwwwb
+www.b
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+.....
+b....
+
+380 2 b
+382
+.....
+.....
+.w...
+.....
+b....
+
+380 2 w
+382
+.....
+.....
+.wb..
+.....
+b....
+
+380 3 b
+382
+.....
+.....
+.wbw.
+.....
+b....
+
+380 3 w
+382
+.....
+.....
+.wbw.
+..b..
+b....
+
+380 4 b
+382
+.....
+.....
+.wbww
+..b..
+b....
+
+380 4 w
+382
+.....
+.....
+.wbww
+..b..
+b.b..
+
+380 5 b
+382
+.....
+.....
+.wbww
+..b..
+b.b.w
+
+380 5 w
+382
+.....
+b....
+.wbww
+..b..
+b.b.w
+
+380 6 b
+382
+.....
+b..w.
+.wbww
+..b..
+b.b.w
+
+380 6 w
+382
+....b
+b..w.
+.wbww
+..b..
+b.b.w
+
+380 7 b
+382
+....b
+b..w.
+.wbww
+..b.w
+b.b.w
+
+380 7 w
+382
+....b
+b..w.
+.wbww
+.bb.w
+b.b.w
+
+380 8 b
+382
+....b
+bw.w.
+.wbww
+.bb.w
+b.b.w
+
+380 8 w
+382
+....b
+bw.w.
+bwbww
+.bb.w
+b.b.w
+
+380 9 b
+382
+...wb
+bw.w.
+bwbww
+.bb.w
+b.b.w
+
+380 9 w
+382
+.b.wb
+bw.w.
+bwbww
+.bb.w
+b.b.w
+
+380 10 b
+382
+.b.wb
+bwww.
+bwbww
+.bb.w
+b.b.w
+
+380 10 w
+382
+.b.wb
+bwww.
+bwbww
+.bb.w
+b.bbw
+
+380 11 b
+382
+.bwwb
+bwww.
+bwbww
+.bb.w
+b.bbw
+
+380 11 w
+382
+bbwwb
+bwww.
+bwbww
+.bb.w
+b.bbw
+
+380 12 b
+382
+bbwwb
+bwww.
+bwbww
+.bbww
+b.bbw
+
+380 12 w
+382
+bbwwb
+bwww.
+bwbww
+bbbww
+b.bbw
+
+380 13 b
+382
+bbwwb
+bwww.
+bwbww
+bbbww
+b.bbw
+380 13 *
+382
+bbwwb
+bwww.
+bwbww
+bbbww
+b.bbw
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+b....
+.....
+
+380 2 b
+382
+.w...
+.....
+.....
+b....
+.....
+
+380 2 w
+382
+.w...
+..b..
+.....
+b....
+.....
+
+380 3 b
+382
+.w...
+..b..
+.....
+b...w
+.....
+
+380 3 w
+382
+.w...
+..b.b
+.....
+b...w
+.....
+
+380 4 b
+382
+.w...
+..b.b
+.....
+b.w.w
+.....
+
+380 4 w
+382
+.w...
+..b.b
+.....
+b.w.w
+b....
+
+380 5 b
+382
+.w...
+..b.b
+.....
+b.w.w
+b..w.
+
+380 5 w
+382
+.w...
+..b.b
+..b..
+b.w.w
+b..w.
+
+380 6 b
+382
+.w...
+w.b.b
+..b..
+b.w.w
+b..w.
+
+380 6 w
+382
+.w...
+w.b.b
+..b.b
+b.w.w
+b..w.
+
+380 7 b
+382
+.w...
+w.b.b
+..b.b
+b.w.w
+b.ww.
+
+380 7 w
+382
+.w...
+w.b.b
+..b.b
+b.w.w
+bbww.
+
+380 8 b
+382
+.w...
+w.b.b
+..b.b
+bww.w
+bbww.
+
+380 8 w
+382
+.w..b
+w.b.b
+..b.b
+bww.w
+bbww.
+
+380 9 b
+382
+.w..b
+w.b.b
+w.b.b
+www.w
+wwww.
+
+380 9 w
+382
+.w..b
+w.b.b
+wbb.b
+www.w
+wwww.
+
+380 10 b
+382
+.w..b
+w.b.b
+wbbwb
+www.w
+wwww.
+
+380 10 w
+382
+.w.bb
+w.b.b
+wbbwb
+www.w
+wwww.
+
+380 11 b
+382
+.w.bb
+w.b.b
+wbbwb
+wwwww
+wwww.
+
+380 11 w
+382
+.w.bb
+w.bbb
+wbbwb
+wwwww
+wwww.
+
+380 12 b
+382
+.w.bb
+wwbbb
+wbbwb
+wwwww
+wwww.
+
+380 12 w
+382
+.w.bb
+wwbbb
+wbbwb
+wwwww
+wwww.
+
+380 13 b
+382
+.w.bb
+wwbbb
+wbbwb
+wwwww
+wwwww
+
+380 13 w
+382
+.w.bb
+wwbbb
+wbbwb
+wwwww
+wwwww
+
+380 14 b
+382
+.wwww
+wwwww
+wwwww
+wwwww
+wwwww
+
+380 14 w
+382
+.wwww
+wwwww
+wwwww
+wwwww
+wwwww
+380 14 *
+382
+.wwww
+wwwww
+wwwww
+wwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+....b
+.....
+.....
+.....
+
+380 2 b
+382
+w....
+....b
+.....
+.....
+.....
+
+380 2 w
+382
+w....
+....b
+.....
+.b...
+.....
+
+380 3 b
+382
+w....
+....b
+....w
+.b...
+.....
+
+380 3 w
+382
+w....
+....b
+....w
+.b...
+b....
+
+380 4 b
+382
+w....
+....b
+..w.w
+.b...
+b....
+
+380 4 w
+382
+wb...
+....b
+..w.w
+.b...
+b....
+
+380 5 b
+382
+wb...
+...wb
+..w.w
+.b...
+b....
+
+380 5 w
+382
+wb...
+...wb
+..w.w
+.b...
+b..b.
+
+380 6 b
+382
+wb...
+...wb
+..w.w
+.b...
+b.wb.
+
+380 6 w
+382
+wb...
+.b.wb
+..w.w
+.b...
+b.wb.
+
+380 7 b
+382
+wb...
+.b.wb
+w.w.w
+.b...
+b.wb.
+
+380 7 w
+382
+wb...
+.b.wb
+w.w.w
+.bb..
+b.wb.
+
+380 8 b
+382
+wb...
+.b.wb
+w.www
+.bb..
+b.wb.
+
+380 8 w
+382
+bb...
+bb.wb
+w.www
+.bb..
+b.wb.
+
+380 9 b
+382
+bb.w.
+bb.wb
+w.www
+.bb..
+b.wb.
+
+380 9 w
+382
+bb.w.
+bb.wb
+w.www
+.bbb.
+b.wb.
+
+380 10 b
+382
+bb.ww
+bb.ww
+w.www
+.bbb.
+b.wb.
+
+380 10 w
+382
+bb.ww
+bbbww
+w.www
+.bbb.
+b.wb.
+
+380 11 b
+382
+bb.ww
+bbbww
+wwwww
+.bbb.
+b.wb.
+
+380 11 w
+382
+bb.ww
+bbbww
+wwwww
+.bbbb
+b.wb.
+
+380 12 b
+382
+bb.ww
+bbbww
+wwwww
+wbbbb
+b.wb.
+
+380 12 w
+382
+bb.ww
+bbbww
+wwwww
+wbbbb
+bbbb.
+
+380 13 b
+382
+bb.ww
+bbbww
+wwwww
+wbbbb
+bbbb.
+380 13 *
+382
+bb.ww
+bbbww
+wwwww
+wbbbb
+bbbb.
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+...b.
+.....
+
+380 2 b
+382
+.....
+.....
+.....
+w..b.
+.....
+
+380 2 w
+382
+.....
+.....
+...b.
+w..b.
+.....
+
+380 3 b
+382
+.....
+...w.
+...b.
+w..b.
+.....
+
+380 3 w
+382
+...b.
+...w.
+...b.
+w..b.
+.....
+
+380 4 b
+382
+...b.
+...w.
+...b.
+w.wb.
+.....
+
+380 4 w
+382
+...b.
+...w.
+b..b.
+w.wb.
+.....
+
+380 5 b
+382
+...b.
+...w.
+b..b.
+wwwb.
+.....
+
+380 5 w
+382
+.b.b.
+...w.
+b..b.
+wwwb.
+.....
+
+380 6 b
+382
+.b.b.
+...w.
+b..b.
+wwwb.
+..w..
+
+380 6 w
+382
+.b.b.
+...w.
+b..b.
+wwwb.
+..w.b
+
+380 7 b
+382
+.b.b.
+w..w.
+b..b.
+wwwb.
+..w.b
+
+380 7 w
+382
+.b.b.
+w..w.
+bb.b.
+wwwb.
+..w.b
+
+380 8 b
+382
+.b.b.
+ww.w.
+bb.b.
+wwwb.
+..w.b
+
+380 8 w
+382
+.b.b.
+ww.w.
+bbbb.
+wwwb.
+..w.b
+
+380 9 b
+382
+.b.b.
+wwww.
+bbbb.
+wwwb.
+..w.b
+
+380 9 w
+382
+.b.b.
+wwww.
+bbbb.
+wwwb.
+b.w.b
+
+380 10 b
+382
+.bwb.
+wwww.
+bbbb.
+wwwb.
+b.w.b
+
+380 10 w
+382
+.bwb.
+wwwwb
+bbbb.
+wwwb.
+b.w.b
+
+380 11 b
+382
+.bwb.
+wwwwb
+bbbb.
+wwwb.
+www.b
+
+380 11 w
+382
+.bwb.
+wwwwb
+bbbb.
+bbbb.
+bbbbb
+
+380 12 b
+382
+.bwb.
+wwwwb
+bbbbw
+bbbb.
+bbbbb
+
+380 12 w
+382
+.bwb.
+wwwwb
+bbbbw
+bbbb.
+bbbbb
+380 12 *
+382
+.bwb.
+wwwwb
+bbbbw
+bbbb.
+bbbbb
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+...b.
+.....
+
+380 2 b
+382
+.....
+.w...
+.....
+...b.
+.....
+
+380 2 w
+382
+...b.
+.w...
+.....
+...b.
+.....
+
+380 3 b
+382
+...b.
+.w...
+.....
+..wb.
+.....
+
+380 3 w
+382
+...b.
+.w...
+.....
+..wb.
+...b.
+
+380 4 b
+382
+.w.b.
+.w...
+.....
+..wb.
+...b.
+
+380 4 w
+382
+.w.b.
+.w...
+...b.
+..wb.
+...b.
+
+380 5 b
+382
+.w.b.
+ww...
+...b.
+..wb.
+...b.
+
+380 5 w
+382
+.w.b.
+ww...
+..bb.
+..wb.
+...b.
+
+380 6 b
+382
+.w.b.
+ww...
+..bb.
+.wwb.
+...b.
+
+380 6 w
+382
+.w.b.
+ww.b.
+..bb.
+.wwb.
+...b.
+
+380 7 b
+382
+.w.b.
+ww.b.
+..bb.
+.wwb.
+w..b.
+
+380 7 w
+382
+.w.b.
+ww.bb
+..bb.
+.wwb.
+w..b.
+
+380 8 b
+382
+.w.b.
+wwwbb
+..bb.
+.wwb.
+w..b.
+
+380 8 w
+382
+.w.b.
+wwwbb
+..bbb
+.wwb.
+w..b.
+
+380 9 b
+382
+ww.b.
+wwwbb
+..bbb
+.wwb.
+w..b.
+
+380 9 w
+382
+ww.b.
+wwwbb
+.bbbb
+.wwb.
+w..b.
+
+380 10 b
+382
+ww.b.
+wwwbb
+wbbbb
+.wwb.
+w..b.
+
+380 10 w
+382
+ww.b.
+wwwbb
+wbbbb
+.wwb.
+w..bb
+
+380 11 b
+382
+ww.b.
+wwwbb
+wbbbb
+.wwb.
+w.wbb
+
+380 11 w
+382
+wwbb.
+wwwbb
+wbbbb
+.wwb.
+w.wbb
+
+380 12 b
+382
+wwbb.
+wwwbb
+wbbbb
+wwwb.
+w.wbb
+
+380 12 w
+382
+wwbb.
+wwwbb
+wbbbb
+wwwbb
+w.wbb
+
+380 13 b
+382
+wwbb.
+wwwbb
+wbbbb
+wwwbb
+w.wbb
+380 13 *
+382
+wwbb.
+wwwbb
+wbbbb
+wwwbb
+w.wbb
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+....b
+.....
+
+380 2 b
+382
+.....
+.....
+.....
+....b
+.w...
+
+380 2 w
+382
+.....
+....b
+.....
+....b
+.w...
+
+380 3 b
+382
+.w...
+....b
+.....
+....b
+.w...
+
+380 3 w
+382
+.w...
+....b
+.....
+....b
+.w.b.
+
+380 4 b
+382
+.w...
+....b
+.....
+...wb
+.w.b.
+
+380 4 w
+382
+.w...
+....b
+.....
+b..wb
+.w.b.
+
+380 5 b
+382
+.w...
+....b
+.w...
+b..wb
+.w.b.
+
+380 5 w
+382
+.w...
+b...b
+.w...
+b..wb
+.w.b.
+
+380 6 b
+382
+.w.w.
+b...b
+.w...
+b..wb
+.w.b.
+
+380 6 w
+382
+bw.w.
+b...b
+.w...
+b..wb
+.w.b.
+
+380 7 b
+382
+bw.w.
+b...b
+ww...
+b..wb
+.w.b.
+
+380 7 w
+382
+bw.w.
+b...b
+ww...
+b.bwb
+.w.b.
+
+380 8 b
+382
+bw.w.
+b...b
+ww.w.
+b.bwb
+.w.b.
+
+380 8 w
+382
+bw.w.
+b...b
+ww.w.
+b.bwb
+.w.bb
+
+380 9 b
+382
+bw.w.
+b...b
+ww.w.
+bwbwb
+.w.bb
+
+380 9 w
+382
+bwbw.
+b...b
+ww.w.
+bwbwb
+.w.bb
+
+380 10 b
+382
+bwww.
+b.w.b
+ww.w.
+bwbwb
+.w.bb
+
+380 10 w
+382
+bwwwb
+b.w.b
+ww.w.
+bwbwb
+.w.bb
+
+380 11 b
+382
+bwwwb
+b.w.b
+wwww.
+bwbwb
+.w.bb
+
+380 11 w
+382
+bwwwb
+b.w.b
+wwww.
+bwbwb
+.wbbb
+
+380 12 b
+382
+bwwwb
+b.wwb
+wwww.
+bwbwb
+.wbbb
+
+380 12 w
+382
+bwwwb
+b.wwb
+wwww.
+bwbwb
+.wbbb
+
+380 13 b
+382
+bwwww
+b.www
+wwwww
+bwwww
+.wwww
+
+380 13 w
+382
+bwwww
+b.www
+wwwww
+bwwww
+.wwww
+
+380 14 b
+382
+bwwww
+b.www
+wwwww
+wwwww
+wwwww
+
+380 14 w
+382
+bwwww
+b.www
+wwwww
+wwwww
+wwwww
+380 14 *
+382
+bwwww
+b.www
+wwwww
+wwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.b...
+.....
+.....
+.....
+.....
+
+380 2 b
+382
+.b...
+....w
+.....
+.....
+.....
+
+380 2 w
+382
+.b...
+....w
+.....
+..b..
+.....
+
+380 3 b
+382
+.b...
+....w
+...w.
+..b..
+.....
+
+380 3 w
+382
+.b...
+..b.w
+...w.
+..b..
+.....
+
+380 4 b
+382
+.b...
+..b.w
+...ww
+..b..
+.....
+
+380 4 w
+382
+.bb..
+..b.w
+...ww
+..b..
+.....
+
+380 5 b
+382
+.bb..
+..b.w
+...ww
+w.b..
+.....
+
+380 5 w
+382
+.bbb.
+..b.w
+...ww
+w.b..
+.....
+
+380 6 b
+382
+.bbb.
+..b.w
+...ww
+wwb..
+.....
+
+380 6 w
+382
+.bbb.
+..b.w
+.b.ww
+wwb..
+.....
+
+380 7 b
+382
+.bbb.
+..b.w
+.b.ww
+wwb..
+w....
+
+380 7 w
+382
+.bbb.
+..b.w
+.b.ww
+wwb.b
+w....
+
+380 8 b
+382
+.bbbw
+..b.w
+.b.ww
+wwb.b
+w....
+
+380 8 w
+382
+.bbbw
+..b.w
+bb.ww
+wwb.b
+w....
+
+380 9 b
+382
+.bbbw
+..b.w
+bb.ww
+wwb.b
+w.w..
+
+380 9 w
+382
+.bbbw
+..b.w
+bbbww
+wwb.b
+w.w..
+
+380 10 b
+382
+.bbbw
+..b.w
+bbbww
+wwb.b
+w.w.w
+
+380 10 w
+382
+.bbbw
+..b.w
+bbbww
+wwbbb
+w.w.w
+
+380 11 b
+382
+.bbbw
+w.b.w
+bbbww
+wwbbb
+w.w.w
+
+380 11 w
+382
+.bbbw
+wbb.w
+bbbww
+wwbbb
+w.w.w
+
+380 12 b
+382
+.bbbw
+wbb.w
+bbbww
+wwbbb
+www.w
+
+380 12 w
+382
+bbbbw
+bbb.w
+bbbww
+wwbbb
+www.w
+
+380 13 b
+382
+bbbbw
+bbb.w
+bbbww
+wwbbb
+www.w
+
+380 13 w
+382
+bbbbb
+bbbbb
+bbbbb
+wwbbb
+www.w
+
+380 14 b
+382
+bbbbb
+bbbbb
+bbbbb
+wwbbb
+www.w
+380 14 *
+382
+bbbbb
+bbbbb
+bbbbb
+wwbbb
+www.w
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+..b..
+.....
+
+380 2 b
+382
+.....
+.....
+....w
+..b..
+.....
+
+380 2 w
+382
+....b
+.....
+....w
+..b..
+.....
+
+380 3 b
+382
+...wb
+.....
+....w
+..b..
+.....
+
+380 3 w
+382
+...wb
+...b.
+....w
+..b..
+.....
+
+380 4 b
+382
+...ww
+...bw
+....w
+..b..
+.....
+
+380 4 w
+382
+...ww
+...bw
+....w
+..b..
+b....
+
+380 5 b
+382
+...ww
+..wbw
+....w
+..b..
+b....
+
+380 5 w
+382
+...ww
+..wbw
+...bw
+..b..
+b....
+
+380 6 b
+382
+...ww
+..wbw
+...bw
+..b..
+b..w.
+
+380 6 w
+382
+.b.ww
+..wbw
+...bw
+..b..
+b..w.
+
+380 7 b
+382
+.b.ww
+..wbw
+...bw
+.wb..
+b..w.
+
+380 7 w
+382
+.b.ww
+b.wbw
+...bw
+.wb..
+b..w.
+
+380 8 b
+382
+.b.ww
+b.wbw
+...bw
+.wb..
+b..ww
+
+380 8 w
+382
+.b.ww
+b.wbw
+...bw
+bwb..
+b..ww
+
+380 9 b
+382
+.b.ww
+b.wbw
+...bw
+bwb..
+b.www
+
+380 9 w
+382
+.b.ww
+b.wbw
+b..bw
+bwb..
+b.www
+
+380 10 b
+382
+.b.ww
+b.wbw
+b.wbw
+bwb..
+b.www
+
+380 10 w
+382
+.bbww
+b.wbw
+b.wbw
+bwb..
+b.www
+
+380 11 b
+382
+.bbww
+b.www
+b.www
+bwww.
+b.www
+
+380 11 w
+382
+.bbww
+b.www
+b.www
+bwww.
+bbwww
+
+380 12 b
+382
+.bbww
+bwwww
+b.www
+bwww.
+bbwww
+
+380 12 w
+382
+.bbww
+bwwww
+bbwww
+bwww.
+bbwww
+
+380 13 b
+382
+.bbww
+bwwww
+bbwww
+bwww.
+bbwww
+380 13 *
+382
+.bbww
+bwwww
+bbwww
+bwww.
+bbwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+.....
+....b
+
+380 2 b
+382
+.....
+....w
+.....
+.....
+....b
+
+380 2 w
+382
+.....
+....w
+.....
+....b
+....b
+
+380 3 b
+382
+.....
+....w
+.....
+....b
+.w..b
+
+380 3 w
+382
+b....
+....w
+.....
+....b
+.w..b
+
+380 4 b
+382
+b....
+....w
+.....
+....b
+ww..b
+
+380 4 w
+382
+b....
+...bw
+.....
+....b
+ww..b
+
+380 5 b
+382
+bw...
+...bw
+.....
+....b
+ww..b
+
+380 5 w
+382
+bw...
+b..bw
+.....
+....b
+ww..b
+
+380 6 b
+382
+bw...
+b..bw
+.....
+...wb
+ww..b
+
+380 6 w
+382
+bw...
+b..bw
+....b
+...wb
+ww..b
+
+380 7 b
+382
+bw...
+bw.bw
+....b
+...wb
+ww..b
+
+380 7 w
+382
+bw...
+bw.bw
+b...b
+...wb
+ww..b
+
+380 8 b
+382
+bw...
+bw.bw
+bw..b
+...wb
+ww..b
+
+380 8 w
+382
+bw..b
+bw.bb
+bw..b
+...wb
+ww..b
+
+380 9 b
+382
+bw..b
+bw.bb
+bw..b
+...wb
+www.b
+
+380 9 w
+382
+bw..b
+bw.bb
+bw.bb
+...wb
+www.b
+
+380 10 b
+382
+ww..b
+ww.bb
+ww.bb
+w..wb
+www.b
+
+380 10 w
+382
+ww..b
+ww.bb
+ww.bb
+w.bwb
+www.b
+
+380 11 b
+382
+ww..b
+ww.bb
+ww.bb
+w.bwb
+wwwwb
+
+380 11 w
+382
+wwb.b
+ww.bb
+ww.bb
+w.bwb
+wwwwb
+
+380 12 b
+382
+wwb.b
+ww.bb
+wwwbb
+w.bwb
+wwwwb
+
+380 12 w
+382
+wwbbb
+ww.bb
+wwwbb
+w.bwb
+wwwwb
+
+380 13 b
+382
+wwwww
+wwwww
+wwwww
+w.bww
+wwwww
+
+380 13 w
+382
+wwwww
+wwwww
+wwwww
+w.bww
+wwwww
+380 13 *
+382
+wwwww
+wwwww
+wwwww
+w.bww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+b....
+.....
+.....
+.....
+
+380 2 b
+382
+...w.
+b....
+.....
+.....
+.....
+
+380 2 w
+382
+...w.
+bb...
+.....
+.....
+.....
+
+380 3 b
+382
+...w.
+bb...
+.....
+w....
+.....
+
+380 3 w
+382
+...w.
+bb...
+.....
+w...b
+.....
+
+380 4 b
+382
+...w.
+bb...
+..w..
+w...b
+.....
+
+380 4 w
+382
+...w.
+bb...
+..wb.
+w...b
+.....
+
+380 5 b
+382
+..ww.
+bb...
+..wb.
+w...b
+.....
+
+380 5 w
+382
+..ww.
+bb...
+..wb.
+w...b
+....b
+
+380 6 b
+382
+.www.
+bb...
+..wb.
+w...b
+....b
+
+380 6 w
+382
+.www.
+bb...
+b.wb.
+w...b
+....b
+
+380 7 b
+382
+.www.
+bb..w
+b.wb.
+w...b
+....b
+
+380 7 w
+382
+.www.
+bb..w
+b.wb.
+w..bb
+....b
+
+380 8 b
+382
+wwww.
+bb..w
+b.wb.
+w..bb
+....b
+
+380 8 w
+382
+wwww.
+bb..w
+b.wb.
+w..bb
+...bb
+
+380 9 b
+382
+wwww.
+bbw.w
+b.wb.
+w..bb
+...bb
+
+380 9 w
+382
+wwww.
+bbw.w
+b.wb.
+w..bb
+.b.bb
+
+380 10 b
+382
+wwww.
+bbw.w
+b.wb.
+ww.bb
+.b.bb
+
+380 10 w
+382
+wwww.
+bbw.w
+b.wb.
+wwbbb
+.b.bb
+
+380 11 b
+382
+wwww.
+bbw.w
+b.wb.
+wwbbb
+wb.bb
+
+380 11 w
+382
+wwww.
+bbw.w
+b.wb.
+wwbbb
+wbbbb
+
+380 12 b
+382
+wwww.
+bbwww
+b.wb.
+wwbbb
+wbbbb
+
+380 12 w
+382
+wwww.
+bbwww
+b.wb.
+wwbbb
+wbbbb
+
+380 13 b
+382
+wwww.
+bbwww
+b.www
+wwwww
+wwwww
+
+380 13 w
+382
+wwww.
+bbwww
+b.www
+wwwww
+wwwww
+
+380 14 b
+382
+wwwww
+bbwww
+b.www
+wwwww
+wwwww
+
+380 14 w
+382
+wwwww
+bbwww
+b.www
+wwwww
+wwwww
+380 14 *
+382
+wwwww
+bbwww
+b.www
+wwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+....b
+.....
+
+380 2 b
+382
+.....
+.....
+.w...
+....b
+.....
+
+380 2 w
+382
+.....
+.....
+.w...
+...bb
+.....
+
+380 3 b
+382
+.....
+.....
+.w...
+.w.bb
+.....
+
+380 3 w
+382
+.....
+.....
+.w.b.
+.w.bb
+.....
+
+380 4 b
+382
+.....
+....w
+.w.b.
+.w.bb
+.....
+
+380 4 w
+382
+...b.
+....w
+.w.b.
+.w.bb
+.....
+
+380 5 b
+382
+...b.
+....w
+.w.b.
+.w.bb
+.w...
+
+380 5 w
+382
+...b.
+....w
+.w.b.
+.w.bb
+.w.b.
+
+380 6 b
+382
+...b.
+.w..w
+.w.b.
+.w.bb
+.w.b.
+
+380 6 w
+382
+...b.
+.w.bw
+.w.b.
+.w.bb
+.w.b.
+
+380 7 b
+382
+...b.
+.w.bw
+.w.b.
+.wwbb
+.w.b.
+
+380 7 w
+382
+...bb
+.w.bw
+.w.b.
+.wwbb
+.w.b.
+
+380 8 b
+382
+...bb
+.w.bw
+.wwb.
+.wwbb
+.w.b.
+
+380 8 w
+382
+...bb
+.w.bw
+.wwb.
+bwwbb
+.w.b.
+
+380 9 b
+382
+...bb
+.w.bw
+wwwb.
+bwwbb
+.w.b.
+
+380 9 w
+382
+...bb
+.w.bb
+wwwbb
+bwwbb
+.w.b.
+
+380 10 b
+382
+w..bb
+.w.bb
+wwwbb
+bwwbb
+.w.b.
+
+380 10 w
+382
+w..bb
+.wbbb
+wwwbb
+bwwbb
+.w.b.
+
+380 11 b
+382
+w.wbb
+.wbbb
+wwwbb
+bwwbb
+.w.b.
+
+380 11 w
+382
+w.wbb
+.wbbb
+wwwbb
+bwwbb
+.w.bb
+
+380 12 b
+382
+w.wbb
+.wbbb
+wwwbb
+wwwbb
+ww.bb
+
+380 12 w
+382
+w.wbb
+.wbbb
+wwwbb
+wwwbb
+ww.bb
+
+380 13 b
+382
+w.wbb
+wwbbb
+wwwbb
+wwwbb
+ww.bb
+
+380 13 w
+382
+w.wbb
+wwbbb
+wwwbb
+wwwbb
+ww.bb
+
+380 14 b
+382
+w.www
+wwwww
+wwwww
+wwwww
+wwwww
+
+380 14 w
+382
+w.www
+wwwww
+wwwww
+wwwww
+wwwww
+380 14 *
+382
+w.www
+wwwww
+wwwww
+wwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+b....
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+b.w..
+.....
+.....
+.....
+
+380 2 w
+382
+.....
+b.wb.
+.....
+.....
+.....
+
+380 3 b
+382
+.....
+b.wb.
+w....
+.....
+.....
+
+380 3 w
+382
+.....
+b.wb.
+w....
+....b
+.....
+
+380 4 b
+382
+.....
+b.wb.
+w.w..
+....b
+.....
+
+380 4 w
+382
+.....
+b.wb.
+w.w..
+...bb
+.....
+
+380 5 b
+382
+.....
+b.wb.
+www..
+...bb
+.....
+
+380 5 w
+382
+.....
+b.wb.
+www.b
+...bb
+.....
+
+380 6 b
+382
+.....
+b.wb.
+www.b
+...bb
+..w..
+
+380 6 w
+382
+b....
+b.wb.
+www.b
+...bb
+..w..
+
+380 7 b
+382
+b....
+bwwb.
+www.b
+...bb
+..w..
+
+380 7 w
+382
+b....
+bwwb.
+www.b
+b..bb
+..w..
+
+380 8 b
+382
+b....
+bwwb.
+www.b
+b.wbb
+..w..
+
+380 8 w
+382
+b....
+bwwb.
+www.b
+b.wbb
+b.w..
+
+380 9 b
+382
+b....
+bwwb.
+www.b
+b.wbb
+bww..
+
+380 9 w
+382
+b....
+bwwb.
+www.b
+b.wbb
+bwwb.
+
+380 10 b
+382
+b..w.
+bwwb.
+www.b
+b.wbb
+bwwb.
+
+380 10 w
+382
+b..w.
+bwwb.
+www.b
+b.wbb
+bwwbb
+
+380 11 b
+382
+b..ww
+bwwb.
+www.b
+b.wbb
+bwwbb
+
+380 11 w
+382
+b..ww
+bwwb.
+wwwbb
+b.wbb
+bwwbb
+
+380 12 b
+382
+ww.ww
+wwwb.
+wwwbb
+b.wbb
+bwwbb
+
+380 12 w
+382
+ww.ww
+wwwb.
+wwwbb
+b.wbb
+bwwbb
+
+380 13 b
+382
+wwwww
+wwwb.
+wwwbb
+b.wbb
+bwwbb
+
+380 13 w
+382
+wwwww
+wwwb.
+wwwbb
+b.wbb
+bwwbb
+
+380 14 b
+382
+wwwww
+wwwb.
+wwwbb
+wwwbb
+wwwbb
+
+380 14 w
+382
+wwwww
+wwwb.
+wwwbb
+wwwbb
+wwwbb
+380 14 *
+382
+wwwww
+wwwb.
+wwwbb
+wwwbb
+wwwbb
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+....b
+.....
+
+380 2 b
+382
+.....
+.....
+...w.
+....b
+.....
+
+380 2 w
+382
+b....
+.....
+...w.
+....b
+.....
+
+380 3 b
+382
+b....
+...w.
+...w.
+....b
+.....
+
+380 3 w
+382
+b....
+...wb
+...w.
+....b
+.....
+
+380 4 b
+382
+b....
+w..wb
+...w.
+....b
+.....
+
+380 4 w
+382
+bb...
+w..wb
+...w.
+....b
+.....
+
+380 5 b
+382
+bb...
+w..wb
+...w.
+.w..b
+.....
+
+380 5 w
+382
+bbb..
+w..wb
+...w.
+.w..b
+.....
+
+380 6 b
+382
+bbb..
+w..wb
+...w.
+.w..b
+.w...
+
+380 6 w
+382
+bbb..
+w..wb
+...wb
+.w..b
+.w...
+
+380 7 b
+382
+bbb..
+w..wb
+w..wb
+.w..b
+.w...
+
+380 7 w
+382
+bbb..
+w..wb
+w.bwb
+.w..b
+.w...
+
+380 8 b
+382
+bbb..
+ww.wb
+w.bwb
+.w..b
+.w...
+
+380 8 w
+382
+bbb.b
+ww.wb
+w.bwb
+.w..b
+.w...
+
+380 9 b
+382
+bbb.b
+ww.wb
+w.bwb
+.w.wb
+.w...
+
+380 9 w
+382
+bbb.b
+ww.wb
+w.bwb
+.w.wb
+.w..b
+
+380 10 b
+382
+bbbwb
+ww.wb
+w.bwb
+.w.wb
+.w..b
+
+380 10 w
+382
+bbbwb
+ww.wb
+w.bwb
+.wbwb
+.w..b
+
+380 11 b
+382
+bbbwb
+ww.wb
+w.bwb
+.wbwb
+.ww.b
+
+380 11 w
+382
+bbbwb
+wwbwb
+w.bwb
+.wbwb
+.ww.b
+
+380 12 b
+382
+bbbwb
+wwbwb
+w.bwb
+wwbwb
+.ww.b
+
+380 12 w
+382
+bbbwb
+wwbwb
+w.bwb
+wwbwb
+.ww.b
+
+380 13 b
+382
+bbbww
+wwbww
+w.bww
+wwbww
+.wwww
+
+380 13 w
+382
+bbbww
+wwbww
+w.bww
+wwbww
+.wwww
+
+380 14 b
+382
+wwwww
+wwwww
+wwwww
+wwwww
+.wwww
+
+380 14 w
+382
+wwwww
+wwwww
+wwwww
+wwwww
+.wwww
+380 14 *
+382
+wwwww
+wwwww
+wwwww
+wwwww
+.wwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+.....
+b....
+
+380 2 b
+382
+.....
+.....
+.....
+.....
+b..w.
+
+380 2 w
+382
+.....
+..b..
+.....
+.....
+b..w.
+
+380 3 b
+382
+.....
+..b..
+.....
+.....
+b..ww
+
+380 3 w
+382
+.....
+..b..
+.....
+...b.
+b..ww
+
+380 4 b
+382
+.....
+..b..
+.....
+..wb.
+b..ww
+
+380 4 w
+382
+.b...
+..b..
+.....
+..wb.
+b..ww
+
+380 5 b
+382
+.b...
+..b..
+...w.
+..wb.
+b..ww
+
+380 5 w
+382
+.b.b.
+..b..
+...w.
+..wb.
+b..ww
+
+380 6 b
+382
+.b.b.
+..b..
+w..w.
+..wb.
+b..ww
+
+380 6 w
+382
+.b.b.
+.bb..
+w..w.
+..wb.
+b..ww
+
+380 7 b
+382
+.b.b.
+.bb..
+w..w.
+w.wb.
+b..ww
+
+380 7 w
+382
+.bbb.
+.bb..
+w..w.
+w.wb.
+b..ww
+
+380 8 b
+382
+.bbb.
+.bb..
+w..w.
+w.wb.
+ww.ww
+
+380 8 w
+382
+.bbb.
+.bbb.
+w..w.
+w.wb.
+ww.ww
+
+380 9 b
+382
+.bbb.
+.bbb.
+w..w.
+w.wb.
+wwwww
+
+380 9 w
+382
+.bbb.
+.bbb.
+wb.w.
+w.wb.
+wwwww
+
+380 10 b
+382
+.bbb.
+.bbb.
+wb.w.
+wwwb.
+wwwww
+
+380 10 w
+382
+.bbb.
+bbbb.
+wb.w.
+wwwb.
+wwwww
+
+380 11 b
+382
+.bbb.
+bbbbw
+wb.w.
+wwwb.
+wwwww
+
+380 11 w
+382
+.bbb.
+bbbbw
+wb.wb
+wwwb.
+wwwww
+
+380 12 b
+382
+.bbb.
+bbbbw
+wb.ww
+wwwww
+wwwww
+
+380 12 w
+382
+.bbb.
+bbbbw
+wbbww
+wwwww
+wwwww
+
+380 13 b
+382
+.bbb.
+bbbbw
+wbbww
+wwwww
+wwwww
+
+380 13 w
+382
+.bbbb
+bbbbb
+bbbbb
+bbbbb
+bbbbb
+
+380 14 b
+382
+.bbbb
+bbbbb
+bbbbb
+bbbbb
+bbbbb
+380 14 *
+382
+.bbbb
+bbbbb
+bbbbb
+bbbbb
+bbbbb
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+.b...
+.....
+
+380 2 b
+382
+.....
+.....
+.....
+.b.w.
+.....
+
+380 2 w
+382
+.....
+b....
+.....
+.b.w.
+.....
+
+380 3 b
+382
+.....
+b..w.
+.....
+.b.w.
+.....
+
+380 3 w
+382
+.b...
+b..w.
+.....
+.b.w.
+.....
+
+380 4 b
+382
+.b...
+b..w.
+...w.
+.b.w.
+.....
+
+380 4 w
+382
+.b...
+b..w.
+...w.
+.b.w.
+.b...
+
+380 5 b
+382
+.b...
+b..w.
+...w.
+.b.w.
+.b..w
+
+380 5 w
+382
+.b...
+b..w.
+...wb
+.b.w.
+.b..w
+
+380 6 b
+382
+.b...
+b..w.
+...wb
+.b.ww
+.b..w
+
+380 6 w
+382
+.b...
+bb.w.
+...wb
+.b.ww
+.b..w
+
+380 7 b
+382
+.b...
+bb.w.
+...wb
+.b.ww
+.bw.w
+
+380 7 w
+382
+.b...
+bb.w.
+b..wb
+.b.ww
+.bw.w
+
+380 8 b
+382
+.b..w
+bb.w.
+b..wb
+.b.ww
+.bw.w
+
+380 8 w
+382
+.bb.w
+bb.w.
+b..wb
+.b.ww
+.bw.w
+
+380 9 b
+382
+.bbww
+bb.w.
+b..wb
+.b.ww
+.bw.w
+
+380 9 w
+382
+.bbww
+bbbw.
+b..wb
+.b.ww
+.bw.w
+
+380 10 b
+382
+.bbww
+bbbww
+b..ww
+.b.ww
+.bw.w
+
+380 10 w
+382
+.bbww
+bbbww
+b.bww
+.b.ww
+.bw.w
+
+380 11 b
+382
+.bbww
+bbbww
+b.bww
+.bwww
+.bw.w
+
+380 11 w
+382
+bbbww
+bbbww
+b.bww
+.bwww
+.bw.w
+
+380 12 b
+382
+bbbww
+bbbww
+b.bww
+.bwww
+wbw.w
+
+380 12 w
+382
+bbbww
+bbbww
+b.bww
+bbwww
+bbw.w
+
+380 13 b
+382
+bbbww
+bbbww
+b.bww
+bbwww
+bbw.w
+380 13 *
+382
+bbbww
+bbbww
+b.bww
+bbwww
+bbw.w
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+..b..
+.....
+
+380 2 b
+382
+.....
+.....
+.....
+..b..
+...w.
+
+380 2 w
+382
+...b.
+.....
+.....
+..b..
+...w.
+
+380 3 b
+382
+w..b.
+.....
+.....
+..b..
+...w.
+
+380 3 w
+382
+w..b.
+.....
+b....
+..b..
+...w.
+
+380 4 b
+382
+ww.b.
+.....
+b....
+..b..
+...w.
+
+380 4 w
+382
+ww.b.
+.....
+b....
+.bb..
+...w.
+
+380 5 b
+382
+ww.b.
+.....
+b....
+.bb..
+..ww.
+
+380 5 w
+382
+ww.b.
+.....
+b....
+bbb..
+..ww.
+
+380 6 b
+382
+ww.b.
+.....
+b.w..
+bbb..
+..ww.
+
+380 6 w
+382
+ww.b.
+.....
+b.w.b
+bbb..
+..ww.
+
+380 7 b
+382
+ww.b.
+..w..
+b.w.b
+bbb..
+..ww.
+
+380 7 w
+382
+ww.b.
+..w..
+b.wbb
+bbb..
+..ww.
+
+380 8 b
+382
+ww.b.
+..w..
+b.wbb
+bbbw.
+..ww.
+
+380 8 w
+382
+ww.b.
+.bw..
+b.wbb
+bbbw.
+..ww.
+
+380 9 b
+382
+ww.b.
+.bww.
+b.wbb
+bbbw.
+..ww.
+
+380 9 w
+382
+ww.b.
+bbww.
+b.wbb
+bbbw.
+..ww.
+
+380 10 b
+382
+ww.b.
+bbwww
+b.wbb
+bbbw.
+..ww.
+
+380 10 w
+382
+ww.b.
+bbwww
+b.wbb
+bbbw.
+b.ww.
+
+380 11 b
+382
+wwwb.
+bbwww
+b.wbb
+bbbw.
+b.ww.
+
+380 11 w
+382
+wwwb.
+bbwww
+b.wbb
+bbbw.
+bbww.
+
+380 12 b
+382
+wwwb.
+bbwww
+b.www
+bbbww
+bbww.
+
+380 12 w
+382
+wwwb.
+bbwww
+b.www
+bbbww
+bbww.
+
+380 13 b
+382
+wwwb.
+bbwww
+b.www
+bbbww
+bbwww
+
+380 13 w
+382
+wwwb.
+bbwww
+b.www
+bbbww
+bbwww
+
+380 14 b
+382
+wwwb.
+wwwww
+wwwww
+wwwww
+wwwww
+
+380 14 w
+382
+wwwb.
+wwwww
+wwwww
+wwwww
+wwwww
+380 14 *
+382
+wwwb.
+wwwww
+wwwww
+wwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+....b
+.....
+.....
+
+380 2 b
+382
+..w..
+.....
+....b
+.....
+.....
+
+380 2 w
+382
+..w..
+.....
+....b
+..b..
+.....
+
+380 3 b
+382
+..w..
+.....
+....b
+..b..
+...w.
+
+380 3 w
+382
+..w..
+.....
+....b
+..b..
+b..w.
+
+380 4 b
+382
+..w..
+..w..
+....b
+..b..
+b..w.
+
+380 4 w
+382
+..w..
+..w.b
+....b
+..b..
+b..w.
+
+380 5 b
+382
+..w..
+..w.b
+....b
+..b..
+b.ww.
+
+380 5 w
+382
+..w..
+..w.b
+....b
+.bb..
+b.ww.
+
+380 6 b
+382
+..ww.
+..w.b
+....b
+.bb..
+b.ww.
+
+380 6 w
+382
+..ww.
+.bw.b
+....b
+.bb..
+b.ww.
+
+380 7 b
+382
+..ww.
+.bw.b
+....b
+.bb.w
+b.ww.
+
+380 7 w
+382
+..ww.
+.bw.b
+b...b
+.bb.w
+b.ww.
+
+380 8 b
+382
+..ww.
+.bw.b
+b.w.b
+.bb.w
+b.ww.
+
+380 8 w
+382
+..wwb
+.bw.b
+b.w.b
+.bb.w
+b.ww.
+
+380 9 b
+382
+..wwb
+.bwwb
+b.w.b
+.bb.w
+b.ww.
+
+380 9 w
+382
+..wwb
+.bwwb
+b.w.b
+.bbbw
+b.ww.
+
+380 10 b
+382
+..www
+.bwww
+b.www
+.bbbw
+b.ww.
+
+380 10 w
+382
+.bwww
+.bwww
+b.www
+.bbbw
+b.ww.
+
+380 11 b
+382
+.bwww
+.bwww
+bwwww
+.bbbw
+b.ww.
+
+380 11 w
+382
+.bwww
+.bwww
+bwwww
+bbbbw
+b.ww.
+
+380 12 b
+382
+.bwww
+wbwww
+bwwww
+bbbbw
+b.ww.
+
+380 12 w
+382
+.bwww
+wbwww
+bwwww
+bbbbw
+b.ww.
+
+380 13 b
+382
+.bwww
+wbwww
+bwwww
+bbbbw
+b.www
+
+380 13 w
+382
+.bwww
+wbwww
+bwwww
+bbbbw
+b.www
+380 13 *
+382
+.bwww
+wbwww
+bwwww
+bbbbw
+b.www
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+b....
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+b....
+.....
+.....
+....w
+
+380 2 w
+382
+.....
+b....
+...b.
+.....
+....w
+
+380 3 b
+382
+.....
+b....
+.w.b.
+.....
+....w
+
+380 3 w
+382
+.....
+b....
+.w.b.
+....b
+....w
+
+380 4 b
+382
+.....
+bw...
+.w.b.
+....b
+....w
+
+380 4 w
+382
+.....
+bw...
+.w.b.
+....b
+...bb
+
+380 5 b
+382
+...w.
+bw...
+.w.b.
+....b
+...bb
+
+380 5 w
+382
+...w.
+bw...
+bw.b.
+....b
+...bb
+
+380 6 b
+382
+...ww
+bw...
+bw.b.
+....b
+...bb
+
+380 6 w
+382
+.b.ww
+bw...
+bw.b.
+....b
+...bb
+
+380 7 b
+382
+.b.ww
+bw...
+bwwb.
+....b
+...bb
+
+380 7 w
+382
+.bbww
+bw...
+bwwb.
+....b
+...bb
+
+380 8 b
+382
+.bbww
+bw.w.
+bwwb.
+....b
+...bb
+
+380 8 w
+382
+.bbww
+bw.w.
+bwwb.
+..b.b
+...bb
+
+380 9 b
+382
+.bbww
+bw.w.
+bwwbw
+..b.b
+...bb
+
+380 9 w
+382
+.bbww
+bw.w.
+bwwbw
+..b.b
+b..bb
+
+380 10 b
+382
+.bbww
+bw.w.
+bwwbw
+.wb.b
+b..bb
+
+380 10 w
+382
+.bbww
+bw.w.
+bwwbw
+bwb.b
+b..bb
+
+380 11 b
+382
+.bbww
+bwww.
+bwwbw
+bwb.b
+b..bb
+
+380 11 w
+382
+.bbww
+bwww.
+bwwbw
+bwb.b
+b.bbb
+
+380 12 b
+382
+.bbww
+bwww.
+bwwbw
+bwb.b
+bwbbb
+
+380 12 w
+382
+.bbww
+bwww.
+bwwbw
+bwb.b
+bwbbb
+380 12 *
+382
+.bbww
+bwww.
+bwwbw
+bwb.b
+bwbbb
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+..b..
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+..b..
+.w...
+.....
+.....
+
+380 2 w
+382
+.....
+.bb..
+.w...
+.....
+.....
+
+380 3 b
+382
+.....
+.bbw.
+.w...
+.....
+.....
+
+380 3 w
+382
+.....
+.bbw.
+.w.b.
+.....
+.....
+
+380 4 b
+382
+.....
+.bbw.
+.w.b.
+....w
+.....
+
+380 4 w
+382
+..b..
+.bbw.
+.w.b.
+....w
+.....
+
+380 5 b
+382
+..b..
+.bbw.
+.w.bw
+....w
+.....
+
+380 5 w
+382
+.bb..
+.bbw.
+.w.bw
+....w
+.....
+
+380 6 b
+382
+.bb..
+.bbw.
+.w.bw
+...ww
+.....
+
+380 6 w
+382
+.bb..
+.bbw.
+.wbbw
+...ww
+.....
+
+380 7 b
+382
+.bb.w
+.bbw.
+.wbbw
+...ww
+.....
+
+380 7 w
+382
+.bb.w
+.bbw.
+.wbbw
+...ww
+..b..
+
+380 8 b
+382
+.bb.w
+.bbw.
+.wbbw
+...ww
+..bw.
+
+380 8 w
+382
+.bb.w
+.bbw.
+.wbbw
+...ww
+.bbw.
+
+380 9 b
+382
+.bbww
+.bbw.
+.wbbw
+...ww
+.bbw.
+
+380 9 w
+382
+.bbww
+.bbw.
+.wbbw
+b..ww
+.bbw.
+
+380 10 b
+382
+wbbww
+.bbw.
+.wbbw
+b..ww
+.bbw.
+
+380 10 w
+382
+wbbww
+.bbw.
+.wbbw
+bb.ww
+.bbw.
+
+380 11 b
+382
+wbbww
+.bbw.
+.wbbw
+bbwww
+.bbw.
+
+380 11 w
+382
+wbbww
+.bbw.
+bbbbw
+bbwww
+.bbw.
+
+380 12 b
+382
+wbbww
+.bbww
+bbbbw
+bbwww
+.bbw.
+
+380 12 w
+382
+wbbww
+.bbww
+bbbbw
+bbwww
+bbbw.
+
+380 13 b
+382
+wbbww
+.bbww
+bbbbw
+bbwww
+bbbw.
+380 13 *
+382
+wbbww
+.bbww
+bbbbw
+bbwww
+bbbw.
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+..b..
+.....
+.....
+.....
+
+380 2 b
+382
+.....
+..b..
+.....
+.....
+....w
+
+380 2 w
+382
+b....
+..b..
+.....
+.....
+....w
+
+380 3 b
+382
+b....
+..b..
+w....
+.....
+....w
+
+380 3 w
+382
+b.b..
+..b..
+w....
+.....
+....w
+
+380 4 b
+382
+b.b..
+..b..
+w....
+.....
+..w.w
+
+380 4 w
+382
+b.b..
+.bb..
+w....
+.....
+..w.w
+
+380 5 b
+382
+b.bw.
+.bb..
+w....
+.....
+..w.w
+
+380 5 w
+382
+b.bw.
+.bb..
+w....
+....b
+..w.w
+
+380 6 b
+382
+b.bw.
+.bb..
+w....
+....b
+..www
+
+380 6 w
+382
+b.bw.
+.bb.b
+w....
+....b
+..www
+
+380 7 b
+382
+b.bw.
+.bb.b
+w....
+...wb
+..www
+
+380 7 w
+382
+b.bw.
+.bbbb
+w....
+...wb
+..www
+
+380 8 b
+382
+b.bw.
+.bbbb
+w...w
+...ww
+..www
+
+380 8 w
+382
+b.bw.
+.bbbb
+wb..w
+...ww
+..www
+
+380 9 b
+382
+b.bw.
+.bbbb
+wb..w
+w..ww
+..www
+
+380 9 w
+382
+b.bbb
+.bbbb
+wb..w
+w..ww
+..www
+
+380 10 b
+382
+b.bbb
+.bbbb
+wb.ww
+w..ww
+..www
+
+380 10 w
+382
+b.bbb
+bbbbb
+wb.ww
+w..ww
+..www
+
+380 11 b
+382
+b.bbb
+bbbbb
+wbwww
+w..ww
+..www
+
+380 11 w
+382
+b.bbb
+bbbbb
+wbwww
+wb.ww
+..www
+
+380 12 b
+382
+b.bbb
+bbbbb
+wbwww
+wb.ww
+w.www
+
+380 12 w
+382
+b.bbb
+bbbbb
+wbwww
+wbbww
+w.www
+
+380 13 b
+382
+b.bbb
+bbbbb
+wbwww
+wbbww
+w.www
+
+380 13 w
+382
+b.bbb
+bbbbb
+bbbbb
+bbbbb
+bbbbb
+
+380 14 b
+382
+b.bbb
+bbbbb
+bbbbb
+bbbbb
+bbbbb
+380 14 *
+382
+b.bbb
+bbbbb
+bbbbb
+bbbbb
+bbbbb
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+.b...
+.....
+
+380 2 b
+382
+.....
+.....
+..w..
+.b...
+.....
+
+380 2 w
+382
+b....
+.....
+..w..
+.b...
+.....
+
+380 3 b
+382
+b....
+.....
+..w..
+.b...
+.w...
+
+380 3 w
+382
+b..b.
+.....
+..w..
+.b...
+.w...
+
+380 4 b
+382
+b..b.
+.....
+..w.w
+.b...
+.w...
+
+380 4 w
+382
+b..b.
+....b
+..w.w
+.b...
+.w...
+
+380 5 b
+382
+b..b.
+.w..b
+..w.w
+.b...
+.w...
+
+380 5 w
+382
+bb.b.
+.w..b
+..w.w
+.b...
+.w...
+
+380 6 b
+382
+bb.b.
+.w..b
+.ww.w
+.b...
+.w...
+
+380 6 w
+382
+bbbb.
+.w..b
+.ww.w
+.b...
+.w...
+
+380 7 b
+382
+bbbb.
+.w..b
+www.w
+.b...
+.w...
+
+380 7 w
+382
+bbbb.
+.w.bb
+www.w
+.b...
+.w...
+
+380 8 b
+382
+bbbb.
+ww.bb
+www.w
+.b...
+.w...
+
+380 8 w
+382
+bbbb.
+ww.bb
+www.w
+.b...
+.w..b
+
+380 9 b
+382
+bbbb.
+ww.bb
+www.w
+.b...
+.w.wb
+
+380 9 w
+382
+bbbb.
+ww.bb
+wwwbw
+.b...
+.w.wb
+
+380 10 b
+382
+bbbb.
+ww.bb
+wwwbw
+.b..w
+.w.ww
+
+380 10 w
+382
+bbbb.
+wwbbb
+wwwbw
+.b..w
+.w.ww
+
+380 11 b
+382
+bbbb.
+wwbbb
+wwwbw
+.b.ww
+.w.ww
+
+380 11 w
+382
+bbbb.
+wwbbb
+wwwbw
+.b.ww
+.wbww
+
+380 12 b
+382
+bbbb.
+wwbbb
+wwwbw
+wb.ww
+.wbww
+
+380 12 w
+382
+bbbb.
+wwbbb
+wwwbw
+wb.ww
+.wbww
+
+380 13 b
+382
+bbbb.
+wwbbb
+wwwbw
+wwwww
+.wwww
+
+380 13 w
+382
+bbbb.
+wwbbb
+wwwbw
+wwwww
+.wwww
+380 13 *
+382
+bbbb.
+wwbbb
+wwwbw
+wwwww
+.wwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.b...
+.....
+.....
+
+380 2 b
+382
+.....
+.....
+.b...
+.....
+.w...
+
+380 2 w
+382
+.b...
+.....
+.b...
+.....
+.w...
+
+380 3 b
+382
+.b...
+.....
+.b...
+.....
+ww...
+
+380 3 w
+382
+.b...
+.....
+.bb..
+.....
+ww...
+
+380 4 b
+382
+.b...
+...w.
+.bb..
+.....
+ww...
+
+380 4 w
+382
+.b...
+...w.
+.bb.b
+.....
+ww...
+
+380 5 b
+382
+.b..w
+...w.
+.bb.b
+.....
+ww...
+
+380 5 w
+382
+.b..w
+...w.
+.bb.b
+b....
+ww...
+
+380 6 b
+382
+.b..w
+...w.
+.bb.b
+b....
+ww.w.
+
+380 6 w
+382
+.b..w
+..bw.
+.bb.b
+b....
+ww.w.
+
+380 7 b
+382
+.b..w
+..bw.
+.bb.b
+bw...
+ww.w.
+
+380 7 w
+382
+.b..w
+..bw.
+bbb.b
+bw...
+ww.w.
+
+380 8 b
+382
+.b.ww
+..bw.
+bbb.b
+bw...
+ww.w.
+
+380 8 w
+382
+.b.ww
+..bw.
+bbb.b
+bw.b.
+ww.w.
+
+380 9 b
+382
+.b.ww
+..bw.
+bbb.b
+bwwb.
+ww.w.
+
+380 9 w
+382
+.b.ww
+..bw.
+bbb.b
+bwwbb
+ww.w.
+
+380 10 b
+382
+.b.ww
+..bw.
+bbb.b
+bwwbb
+ww.ww
+
+380 10 w
+382
+.b.ww
+b.bw.
+bbb.b
+bwwbb
+ww.ww
+
+380 11 b
+382
+.bwww
+b.bw.
+bbb.b
+bwwbb
+ww.ww
+
+380 11 w
+382
+.bwww
+b.bw.
+bbbbb
+bwwbb
+ww.ww
+
+380 12 b
+382
+.bwww
+b.bw.
+bbbbb
+bwwbb
+ww.ww
+
+380 12 w
+382
+.bwww
+bbbw.
+bbbbb
+bwwbb
+ww.ww
+
+380 13 b
+382
+.bwww
+bbbw.
+bbbbb
+bwwbb
+ww.ww
+
+380 13 w
+382
+.bbbb
+bbbbb
+bbbbb
+bwwbb
+ww.ww
+
+380 14 b
+382
+.bbbb
+bbbbb
+bbbbb
+bwwbb
+ww.ww
+380 14 *
+382
+.bbbb
+bbbbb
+bbbbb
+bwwbb
+ww.ww
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+...b.
+.....
+.....
+
+380 2 b
+382
+.....
+.....
+...b.
+.....
+w....
+
+380 2 w
+382
+b....
+.....
+...b.
+.....
+w....
+
+380 3 b
+382
+bw...
+.....
+...b.
+.....
+w....
+
+380 3 w
+382
+bw...
+.....
+...b.
+b....
+w....
+
+380 4 b
+382
+bw...
+.....
+...b.
+b.w..
+w....
+
+380 4 w
+382
+bw...
+...b.
+...b.
+b.w..
+w....
+
+380 5 b
+382
+bw...
+...bw
+...b.
+b.w..
+w....
+
+380 5 w
+382
+bw...
+b..bw
+...b.
+b.w..
+w....
+
+380 6 b
+382
+bw...
+bw.bw
+...b.
+b.w..
+w....
+
+380 6 w
+382
+bw...
+bw.bw
+b..b.
+b.w..
+w....
+
+380 7 b
+382
+bw...
+bw.bw
+b..b.
+b.w..
+ww...
+
+380 7 w
+382
+bw...
+bw.bw
+b..b.
+b.w.b
+ww...
+
+380 8 b
+382
+bw...
+bw.bw
+b..b.
+bww.b
+ww...
+
+380 8 w
+382
+bw..b
+bw.bw
+b..b.
+bww.b
+ww...
+
+380 9 b
+382
+bw..b
+bw.bw
+b..b.
+bww.b
+ww.w.
+
+380 9 w
+382
+bw..b
+bw.bb
+b..bb
+bww.b
+ww.w.
+
+380 10 b
+382
+bw..b
+bw.bb
+b..bb
+bwwwb
+ww.w.
+
+380 10 w
+382
+bw.bb
+bw.bb
+b..bb
+bwwwb
+ww.w.
+
+380 11 b
+382
+bw.bb
+bw.bb
+b.wbb
+bwwwb
+ww.w.
+
+380 11 w
+382
+bw.bb
+bw.bb
+b.wbb
+bwwwb
+ww.wb
+
+380 12 b
+382
+bwwbb
+bw.bb
+b.wbb
+bwwwb
+ww.wb
+
+380 12 w
+382
+bwwbb
+bw.bb
+b.wbb
+bwwwb
+ww.wb
+
+380 13 b
+382
+bwwbb
+bw.bb
+b.wbb
+bwwwb
+wwwwb
+
+380 13 w
+382
+bwwbb
+bw.bb
+b.wbb
+bwwwb
+wwwwb
+
+380 14 b
+382
+bwwww
+bwwww
+b.www
+bwwww
+wwwww
+
+380 14 w
+382
+bwwww
+bwwww
+b.www
+bwwww
+wwwww
+380 14 *
+382
+bwwww
+bwwww
+b.www
+bwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+...b.
+.....
+
+380 2 b
+382
+..w..
+.....
+.....
+...b.
+.....
+
+380 2 w
+382
+..w..
+.....
+.....
+.b.b.
+.....
+
+380 3 b
+382
+w.w..
+.....
+.....
+.b.b.
+.....
+
+380 3 w
+382
+w.w..
+.....
+....b
+.b.b.
+.....
+
+380 4 b
+382
+w.w.w
+.....
+....b
+.b.b.
+.....
+
+380 4 w
+382
+w.w.w
+.....
+b...b
+.b.b.
+.....
+
+380 5 b
+382
+w.w.w
+w....
+b...b
+.b.b.
+.....
+
+380 5 w
+382
+w.w.w
+w.b..
+b...b
+.b.b.
+.....
+
+380 6 b
+382
+w.w.w
+wwb..
+b...b
+.b.b.
+.....
+
+380 6 w
+382
+w.w.w
+wwb..
+bb..b
+.b.b.
+.....
+
+380 7 b
+382
+w.w.w
+wwb..
+bbw.b
+.b.b.
+.....
+
+380 7 w
+382
+w.w.w
+wwbb.
+bbw.b
+.b.b.
+.....
+
+380 8 b
+382
+w.w.w
+wwbb.
+bbw.b
+.b.b.
+....w
+
+380 8 w
+382
+w.w.w
+wwbb.
+bbw.b
+.b.b.
+...bw
+
+380 9 b
+382
+w.w.w
+wwbb.
+bbw.b
+.b.b.
+..wbw
+
+380 9 w
+382
+w.wbw
+wwbb.
+bbw.b
+.b.b.
+..wbw
+
+380 10 b
+382
+w.wbw
+wwbb.
+bbw.b
+.b.b.
+w.wbw
+
+380 10 w
+382
+w.wbw
+wwbb.
+bbw.b
+bb.b.
+w.wbw
+
+380 11 b
+382
+w.wbw
+wwbb.
+bbw.b
+bbwb.
+w.wbw
+
+380 11 w
+382
+w.wbw
+wwbb.
+bbwbb
+bbwb.
+w.wbw
+
+380 12 b
+382
+w.wbw
+wwbb.
+bbwbb
+bbwb.
+w.wbw
+
+380 12 w
+382
+w.wbb
+wwbbb
+bbwbb
+bbwb.
+w.wbw
+
+380 13 b
+382
+w.wbb
+wwbbb
+bbwbb
+bbwb.
+w.wbw
+380 13 *
+382
+w.wbb
+wwbbb
+bbwbb
+bbwb.
+w.wbw
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+b....
+.....
+.....
+
+380 2 b
+382
+....w
+.....
+b....
+.....
+.....
+
+380 2 w
+382
+....w
+.....
+b....
+.b...
+.....
+
+380 3 b
+382
+....w
+.....
+b...w
+.b...
+.....
+
+380 3 w
+382
+b...w
+.....
+b...w
+.b...
+.....
+
+380 4 b
+382
+b...w
+.....
+b...w
+.b...
+...w.
+
+380 4 w
+382
+b...w
+.....
+bb..w
+.b...
+...w.
+
+380 5 b
+382
+b...w
+.....
+bb..w
+.b...
+.w.w.
+
+380 5 w
+382
+b...w
+..b..
+bb..w
+.b...
+.w.w.
+
+380 6 b
+382
+b...w
+..b..
+bb..w
+wb...
+.w.w.
+
+380 6 w
+382
+b...w
+..b..
+bb..w
+wb.b.
+.w.w.
+
+380 7 b
+382
+b...w
+..bw.
+bb..w
+wb.b.
+.w.w.
+
+380 7 w
+382
+b...w
+..bw.
+bb..w
+wbbb.
+.w.w.
+
+380 8 b
+382
+b..ww
+..bw.
+bb..w
+wbbb.
+.w.w.
+
+380 8 w
+382
+b..ww
+..bw.
+bb..w
+wbbbb
+.w.w.
+
+380 9 b
+382
+b..ww
+..bw.
+bb..w
+wbbbb
+.www.
+
+380 9 w
+382
+b..ww
+..bw.
+bb.bw
+wbbbb
+.www.
+
+380 10 b
+382
+b.www
+..bw.
+bb.bw
+wbbbb
+.www.
+
+380 10 w
+382
+bbwww
+..bw.
+bb.bw
+wbbbb
+.www.
+
+380 11 b
+382
+bbwww
+..bw.
+bb.bw
+wbbbb
+.wwww
+
+380 11 w
+382
+bbwww
+b.bw.
+bb.bw
+wbbbb
+.wwww
+
+380 12 b
+382
+bbwww
+b.bw.
+bb.bw
+wbbbb
+.wwww
+
+380 12 w
+382
+bbwww
+b.bw.
+bbbbw
+wbbbb
+.wwww
+
+380 13 b
+382
+bbwww
+b.bw.
+bbbbw
+wbbbb
+.wwww
+380 13 *
+382
+bbwww
+b.bw.
+bbbbw
+wbbbb
+.wwww
+Black wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+..b..
+.....
+.....
+
+380 2 b
+382
+.....
+.....
+..bw.
+.....
+.....
+
+380 2 w
+382
+.....
+.....
+..bw.
+b....
+.....
+
+380 3 b
+382
+.....
+.....
+w.bw.
+b....
+.....
+
+380 3 w
+382
+...b.
+.....
+w.bw.
+b....
+.....
+
+380 4 b
+382
+...b.
+.w...
+w.bw.
+b....
+.....
+
+380 4 w
+382
+...b.
+.w...
+w.bw.
+b..b.
+.....
+
+380 5 b
+382
+.w.b.
+.w...
+w.bw.
+b..b.
+.....
+
+380 5 w
+382
+.w.b.
+.w...
+w.bw.
+b..b.
+....b
+
+380 6 b
+382
+.w.b.
+.w..w
+w.bw.
+b..b.
+....b
+
+380 6 w
+382
+.w.b.
+.w..w
+w.bw.
+b..b.
+...bb
+
+380 7 b
+382
+.w.b.
+.ww.w
+w.bw.
+b..b.
+...bb
+
+380 7 w
+382
+.w.b.
+.ww.w
+w.bw.
+b..b.
+b..bb
+
+380 8 b
+382
+.w.b.
+.ww.w
+w.bw.
+b.wb.
+b..bb
+
+380 8 w
+382
+.w.bb
+.ww.w
+w.bw.
+b.wb.
+b..bb
+
+380 9 b
+382
+.w.bb
+.ww.w
+w.bw.
+b.wbw
+b..bb
+
+380 9 w
+382
+.w.bb
+bww.w
+w.bw.
+b.wbw
+b..bb
+
+380 10 b
+382
+.w.bb
+bww.w
+w.bw.
+bwwbw
+b..bb
+
+380 10 w
+382
+.w.bb
+bwwbw
+w.bw.
+bwwbw
+b..bb
+
+380 11 b
+382
+.w.bb
+bwwbw
+wwww.
+bwwbw
+b..bb
+
+380 11 w
+382
+.w.bb
+bwwbw
+wwww.
+bwwbw
+bb.bb
+
+380 12 b
+382
+.w.bb
+bwwbw
+wwww.
+wwwww
+wwwww
+
+380 12 w
+382
+.w.bb
+bwwbw
+wwww.
+wwwww
+wwwww
+
+380 13 b
+382
+.wwww
+bwwww
+wwww.
+wwwww
+wwwww
+
+380 13 w
+382
+.wwww
+bwwww
+wwww.
+wwwww
+wwwww
+
+380 14 b
+382
+.wwww
+bwwww
+wwwww
+wwwww
+wwwww
+
+380 14 w
+382
+.wwww
+bwwww
+wwwww
+wwwww
+wwwww
+380 14 *
+382
+.wwww
+bwwww
+wwwww
+wwwww
+wwwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+.....
+...b.
+.....
+
+380 2 b
+382
+...w.
+.....
+.....
+...b.
+.....
+
+380 2 w
+382
+...w.
+.....
+b....
+...b.
+.....
+
+380 3 b
+382
+...ww
+.....
+b....
+...b.
+.....
+
+380 3 w
+382
+...ww
+.....
+b..b.
+...b.
+.....
+
+380 4 b
+382
+...ww
+.....
+b.wb.
+...b.
+.....
+
+380 4 w
+382
+...ww
+b....
+b.wb.
+...b.
+.....
+
+380 5 b
+382
+...ww
+b....
+bwwb.
+...b.
+.....
+
+380 5 w
+382
+...ww
+b....
+bwwb.
+.b.b.
+.....
+
+380 6 b
+382
+...ww
+b....
+bwwb.
+.b.b.
+.w...
+
+380 6 w
+382
+...ww
+b..b.
+bwwb.
+.b.b.
+.w...
+
+380 7 b
+382
+.w.ww
+b..b.
+bwwb.
+.b.b.
+.w...
+
+380 7 w
+382
+.w.ww
+bb.b.
+bwwb.
+.b.b.
+.w...
+
+380 8 b
+382
+.w.ww
+bbwb.
+bwwb.
+.b.b.
+.w...
+
+380 8 w
+382
+.w.ww
+bbwb.
+bwwbb
+.b.b.
+.w...
+
+380 9 b
+382
+.w.ww
+bbwb.
+bwwbb
+wb.b.
+.w...
+
+380 9 w
+382
+.w.ww
+bbwb.
+bwwbb
+wbbb.
+.w...
+
+380 10 b
+382
+.w.ww
+bbwbw
+bwwbb
+wbbb.
+.w...
+
+380 10 w
+382
+.w.ww
+bbwbw
+bwwbb
+wbbbb
+.w...
+
+380 11 b
+382
+.w.ww
+bbwbw
+bwwbb
+wbbbb
+.w.w.
+
+380 11 w
+382
+.w.ww
+bbwbw
+bwwbb
+wbbbb
+.w.wb
+
+380 12 b
+382
+.w.ww
+bbwww
+bwwww
+wwwww
+.wwww
+
+380 12 w
+382
+.w.ww
+bbwww
+bwwww
+wwwww
+.wwww
+
+380 13 b
+382
+.wwww
+bbwww
+bwwww
+wwwww
+.wwww
+
+380 13 w
+382
+.wwww
+bbwww
+bwwww
+wwwww
+.wwww
+
+380 14 b
+382
+wwwww
+wwwww
+wwwww
+wwwww
+.wwww
+
+380 14 w
+382
+wwwww
+wwwww
+wwwww
+wwwww
+.wwww
+380 14 *
+382
+wwwww
+wwwww
+wwwww
+wwwww
+.wwww
+White wins.
+White player connected
+Black player connected
+
+380 1 b
+382
+.....
+.....
+.....
+.....
+.....
+
+380 1 w
+382
+.....
+.....
+b....
+.....
+.....
+
+380 2 b
+382
+.....
+.....
+b....
+.....
+....w
+
+380 2 w
+382
+.....
+.b...
+b....
+.....
+....w
+
+380 3 b
+382
+....w
+.b...
+b....
+.....
+....w
+
+380 3 w
+382
+....w
+.b...
+b...b
+.....
+....w
+
+380 4 b
+382
+....w
+.b...
+b...b
+...w.
+....w
+
+380 4 w
+382
+...bw
+.b...
+b...b
+...w.
+....w
+
+380 5 b
+382
+..wbw
+.b...
+b...b
+...w.
+....w
+
+380 5 w
+382
+..wbb
+.b..b
+b...b
+...w.
+....w
+
+380 6 b
+382
+.wwbb
+.b..b
+b...b
+...w.
+....w
+
+380 6 w
+382
+.wwbb
+.b..b
+b...b
+.b.w.
+....w
+
+380 7 b
+382
+.wwbb
+.b..b
+b...b
+.b.ww
+....w
+
+380 7 w
+382
+.wwbb
+.b..b
+b...b
+bb.ww
+....w
+
+380 8 b
+382
+.wwbb
+.b.wb
+b...b
+bb.ww
+....w
+
+380 8 w
+382
+.wwbb
+bb.wb
+b...b
+bb.ww
+....w
+
+380 9 b
+382
+.wwbb
+bb.wb
+b...b
+bb.ww
+..w.w
+
+380 9 w
+382
+.wwbb
+bb.wb
+b.b.b
+bb.ww
+..w.w
+
+380 10 b
+382
+.wwww
+bb.ww
+b.bww
+bb.ww
+..w.w
+
+380 10 w
+382
+.wwww
+bb.ww
+b.bww
+bb.ww
+.bw.w
+
+380 11 b
+382
+.wwww
+bb.ww
+b.bww
+bbwww
+.bw.w
+
+380 11 w
+382
+.wwww
+bb.ww
+b.bww
+bbwww
+bbw.w
+
+380 12 b
+382
+.wwww
+bbwww
+b.bww
+bbwww
+bbw.w
+
+380 12 w
+382
+bwwww
+bbwww
+b.bww
+bbwww
+bbw.w
+
+380 13 b
+382
+bwwww
+bbwww
+b.bww
+bbwww
+bbw.w
+380 13 *
+382
+bwwww
+bbwww
+b.bww
+bbwww
+bbw.w
+White wins.

@@ -1,0 +1,24 @@
+Jason Holm jholm@pdx.edu
+Gothello Player
+
+I implemented a negamax Gothello player with alpha-beta pruning and a transposition table. I started off with
+the code from Grossthello to make the moves and update the board. From there I implemented plain negamax search and
+it worked but it was really slow in Python. I wanted to improve performance so I implemented alpha-beta pruning. That
+sped it up dramatically but I wanted to see if I could go further so I also added in a transposition table. I had a
+lot of issues along the way, mainly my player consistently losing to Grossthello. I evaluated my player's performance
+by writing a bash script to repeatedly play against Grossthello. I ran the test in batches of 50 games played per test
+to try and remove the random variance and get an overall trend of each player's performance. For a while Grossthello
+would win about 70% of games or around 35 of the 50 games. After fixing some bugs with the transposition table, I've
+got my player to win between 25 and 35 of the 50 games played. I ran my script several times to make sure the results 
+were consistent. I also ran it with my player on both black and white to make sure my advantage wasn't due to picking
+one side over the other. I did all my testing with both my player and Grossthello at search depth 3. I learned a lot 
+about the details of minimax and negamax search as well as optimization techniques like alpha-beta and transposition 
+tables. I had no idea what a transposition table was before I did this project so that was one of the main new things
+I learned. In the future I would like to try writing this player in a compiled language to see if I can get it to go
+even faster because even with all of the optimizations I added in, Python is still really slow.
+
+To run my player type 'python3 gthplayer.py color server_name server_port depth' in a linux terminal.
+
+I included my tests directory which has the script I used to test my player. However the script relies on .jar files for
+the Gthd server and Grossthello code and some extra setup by putting things into the correct directories so it won't run
+without additional setup and tweaking.
