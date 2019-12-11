@@ -1,12 +1,13 @@
-# Class that manages the board state.
+# Class that manages the board state and does the negamax search.
 
 import copy
 import random
-from pprint import pprint
 
+# Initalize constants.
 PLAYER_BLACK = 1
 PLAYER_WHITE = 2
 GAME_OVER = 1
+CONTINUE = 0
 PASS = (-1,-1)
 INF = float('infinity')
 UPPERBOUND = 1
@@ -14,13 +15,15 @@ LOWERBOUND = 2
 EXACT = 3
 
 class Board(object):
-    
+      
+    # Initalize Board variables.
     def __init__(self):
         self.best_move = None
         self.to_move = PLAYER_BLACK
         self.previous_move = None
         self.grid = [[0] * 5 for _ in range(5)]
 
+    # Loops through all of the current moves and chooses the one with the highest value. 
     def find_best_move(self, player, depth):
         moves = self.genMoves()
         values = []
@@ -31,18 +34,23 @@ class Board(object):
         for move in moves:
             copy_board = copy.deepcopy(self)
             copy_board.try_move(move)
-            value = -copy_board.negamax(player, depth, 0, -INF, INF, False)
+            value = -copy_board.negamax(player, depth, 0, -INF, INF)
             values.append(value)
-        print(values)
         maxval = max(values)
+        # Make a list of the possible best moves.
         for value, move in zip(values, moves):
             if value == maxval:
                 possible_best_moves.append(move)
+        # If there is more than oen best move pick one randomly.
         self.best_move = random.choice(possible_best_moves)
         
-    def negamax(self, player, depth, status, a, b, done):
-        origa = a
+    # Negamax search with alpha-beta pruning and a transposition table.
+    # Adapted from pseudocode on the negamax Wikipedia page.
+    # http://en.wikipedia.org/wiki/Negamax
+    def negamax(self, player, depth, status, a, b):
+        orig_a = a
         ttEntry = player.table.ttLookup(self.grid)
+        # Check to see if the tt can be used to return early.
         if ttEntry.depth >= depth:
             if ttEntry.flag == EXACT:
                 return ttEntry.value
@@ -52,45 +60,46 @@ class Board(object):
                 b = min(b, ttEntry.value)
             if a >= b:
                 return ttEntry.value
-
+        
         if depth == 0 or status == GAME_OVER:
             return self.heval()
+
         moves = self.genMoves()
-        best_value = -INF
+        value = -INF
+        # Check every move and find the max value of all of them.
         for move in moves:
-            a = max(a, best_value)
             copy_board = copy.deepcopy(self)
             status = copy_board.try_move(move)
-            value = -copy_board.negamax(player, depth - 1, status, -b, -a, done)
-            if value > best_value:
-                best_value = value
-                # best_move = move
-                if best_value >= b:
-                    break
+            value = max(value, -copy_board.negamax(player, depth - 1, status, -b, -a))
+            a = max(a, value)
+            if a >= b:
+                break
         
-        if best_value <= origa:
+        # Update the tt and store the entry.
+        if value <= orig_a:
             ttEntry.flag = UPPERBOUND
-        elif best_value >= b:
+        elif value >= b:
             ttEntry.flag = LOWERBOUND
         else:
             ttEntry.flag = EXACT
+        ttEntry.value = value
         ttEntry.depth = depth
-        ttEntry.value = best_value
-        # ttEntry.move = best_move
         player.table.ttStore(self.grid, ttEntry)
         
-        return best_value
+        return value
 
+    # All functions below this line are adapted directly from Grossthello
+    # https://github.com/pdx-cs-ai/gothello-grossthello supplied by Bart Massey
     def heval(self):
-        mstones = 0
+        nstones = 0
         ostones = 0
         for i in range(5):
             for j in range(5):
                 if self.grid[i][j] == self.to_move:
-                    mstones += 1
+                    nstones += 1
                 elif self.grid[i][j] == self.opponent(self.to_move):
                     ostones += 1
-        return mstones - ostones
+        return nstones - ostones
 
     def make_move(self, move):
         self.previous_move = move
@@ -104,7 +113,7 @@ class Board(object):
             return GAME_OVER
         self.make_move(move)
         self.to_move = self.opponent(self.to_move)
-        return 0
+        return CONTINUE
 
     def move_ok(self, move):
         if move == PASS:
@@ -118,6 +127,15 @@ class Board(object):
             return False
         return True
 
+    def opponent(self, player):
+        if player == PLAYER_BLACK:
+            return PLAYER_WHITE 
+        if player == PLAYER_WHITE:
+            return PLAYER_BLACK
+
+    def scratch_board(self):
+        return [[False] * 5 for _ in range(5)]
+
     def genMoves(self):
         result = []
         for i in range(5):
@@ -127,15 +145,6 @@ class Board(object):
                     if self.move_ok(move):
                         result.append(move)
         return result
-
-    def opponent(self, player):
-        if player == PLAYER_BLACK:
-            return PLAYER_WHITE 
-        if player == PLAYER_WHITE:
-            return PLAYER_BLACK
-
-    def scratch_board(self):
-        return [[False] * 5 for _ in range(5)]
 
     def flood(self, scratch, color, x, y):
         if not (x >= 0 and x <= 4 and y >= 0 and y <= 4):
