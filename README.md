@@ -1,6 +1,6 @@
 # Gothello Player
 
-Copyright (c) 2019 Jason Holm
+Copyright (c) 2019 Jessica Holm
 
 Gothello is a small-board game that combines aspects of
 [Othello](https://en.wikipedia.org/wiki/Reversi) (also known as Reversi) and
